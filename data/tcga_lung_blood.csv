@@ -1,0 +1,648 @@
+case_id,project,vital_status,days_to_death,gender,race,age_at_index,age_at_diagnosis,days_to_last_follow_up,primary_diagnosis,tumor_stage,age_years,survival_days,survival_years,outcome,cancer_type,cancer_type_enc,gender_enc,race_enc
+07b5663f-9a54-4462-b6c1-6fc8116b8714,TCGA-LUAD,Alive,,female,white,65.0,23854.0,1324.0,"Adenocarcinoma, NOS",,65.3,1324.0,3.6249144421629023,0,Lung,1,0,5
+294ff941-aea1-4588-9a0e-e9f5393e2bb6,TCGA-LUAD,Alive,,female,white,65.0,,,"Infiltrating duct carcinoma, NOS",,,,,0,Lung,1,0,5
+ebb33753-9d38-4368-9033-3e55f129d00d,TCGA-LUAD,Alive,,male,black or african american,64.0,23538.0,889.0,Adenocarcinoma with mixed subtypes,,64.4,889.0,2.433949349760438,0,Lung,1,1,3
+781f40c9-c099-4c96-8269-ebe2a449c93d,TCGA-LUAD,Dead,321.0,male,not reported,69.0,25664.0,,"Adenocarcinoma, NOS",,70.3,321.0,0.8788501026694046,1,Lung,1,1,4
+5134c56f-8286-4ec8-8348-237cee7dad5e,TCGA-LUAD,Dead,176.0,male,white,81.0,,,Not Reported,,,176.0,0.48186173853524983,1,Lung,1,1,5
+369f14c4-2191-4962-a309-3e23ddc4e5fc,TCGA-LUAD,Alive,,female,white,65.0,23892.0,739.0,"Adenocarcinoma, NOS",,65.4,739.0,2.023271731690623,0,Lung,1,0,5
+e51f717f-72e8-400e-9f35-fc5dc32fdf71,TCGA-LUAD,Alive,,male,not reported,,,,Not Reported,,,,,0,Lung,1,1,4
+bbe88801-34f3-46d2-bbfd-b46c3901ed71,TCGA-LUAD,Alive,,male,asian,77.0,28453.0,186.0,"Adenocarcinoma, NOS",,77.9,186.0,0.5092402464065708,0,Lung,1,1,2
+d2c1e896-6886-4122-bb48-5fbcd3f641f4,TCGA-LUAD,Dead,274.0,male,not reported,69.0,,,Not Reported,,,274.0,0.7501711156741958,1,Lung,1,1,4
+108a71cf-b9db-47cd-aa74-c03ec989b41b,TCGA-LUAD,Alive,,female,white,73.0,,,Not Reported,,,,,0,Lung,1,0,5
+9c7875ad-ab71-4d48-b2e3-e4c7a46393e9,TCGA-LUAD,Alive,,male,white,82.0,,,Not Reported,,,,,0,Lung,1,1,5
+d12b6930-9ae4-4fe7-ad69-d183135c91ab,TCGA-LUAD,Alive,,male,white,74.0,,,"Adenocarcinoma, NOS",,,,,0,Lung,1,1,5
+8214a0d1-5e2d-4a7a-acb1-e5580755db83,TCGA-LUAD,Dead,800.0,female,white,72.0,26744.0,,Not Reported,,73.2,800.0,2.190280629705681,1,Lung,1,0,5
+69dba721-a168-47a4-b7ff-80a448bad654,TCGA-LUAD,Dead,187.0,female,white,71.0,26105.0,187.0,"Adenocarcinoma, NOS",,71.5,187.0,0.5119780971937029,1,Lung,1,0,5
+d31aeefc-b59b-42e9-9919-750b17a70a3d,TCGA-LUAD,Alive,,female,asian,74.0,,,"Infiltrating duct carcinoma, NOS",,,,,0,Lung,1,0,2
+afb91740-2668-46d7-ba01-bb26153ad1c7,TCGA-LUAD,Dead,1600.0,female,white,80.0,29508.0,1600.0,"Adenocarcinoma, NOS",,80.8,1600.0,4.380561259411362,1,Lung,1,0,5
+f1985735-a188-4567-a88a-530f9b80291b,TCGA-LUAD,Dead,1073.0,female,white,75.0,28413.0,,Not Reported,,77.8,1073.0,2.937713894592745,1,Lung,1,0,5
+a41c46da-7ed4-4192-bd16-b3cbb94a5133,TCGA-LUAD,Dead,701.0,male,white,65.0,,,"Adenocarcinoma, NOS",,,701.0,1.919233401779603,1,Lung,1,1,5
+6d72de06-232a-4983-a06c-eba6d82cb3f1,TCGA-LUAD,Alive,,male,white,68.0,25008.0,1178.0,"Adenocarcinoma, NOS",,68.5,1178.0,3.2251882272416155,0,Lung,1,1,5
+102fba48-b23a-46d4-8371-71c11c1a6654,TCGA-LUAD,Alive,,female,white,57.0,20940.0,61.0,"Adenocarcinoma, NOS",,57.3,61.0,0.16700889801505817,0,Lung,1,0,5
+c650b1ff-8a4c-4ee9-b7c1-268c28c83827,TCGA-LUAD,Dead,503.0,female,white,63.0,,,Adenocarcinoma with mixed subtypes,,,503.0,1.377138945927447,1,Lung,1,0,5
+8609edfc-119d-4d63-9188-c86aabd5ca52,TCGA-LUAD,Alive,,male,white,42.0,15605.0,993.0,"Papillary adenocarcinoma, NOS",,42.7,993.0,2.7186858316221767,0,Lung,1,1,5
+03d09c05-49ab-4ba6-a8d7-e7ccf71fafd2,TCGA-LUAD,Alive,,male,not reported,81.0,,,Not Reported,,,,,0,Lung,1,1,4
+f3501466-cf32-4866-b5fb-e94dd32341bc,TCGA-LUAD,Alive,,female,white,69.0,25313.0,1159.0,"Adenocarcinoma, NOS",,69.3,1159.0,3.1731690622861053,0,Lung,1,0,5
+772324a5-5513-454d-ad6b-605798f69b73,TCGA-LUAD,Alive,,female,white,72.0,26616.0,416.0,Mucinous adenocarcinoma,,72.9,416.0,1.1389459274469542,0,Lung,1,0,5
+b40d0849-f4ef-4a14-9732-9beb708cb46b,TCGA-LUAD,Dead,258.0,male,white,84.0,,,"Basal cell carcinoma, NOS",,,258.0,0.7063655030800822,1,Lung,1,1,5
+2483621a-4db3-41ab-aa33-b9427ea8a0af,TCGA-LUAD,Dead,354.0,female,white,72.0,26538.0,354.0,"Adenocarcinoma, NOS",,72.7,354.0,0.9691991786447639,1,Lung,1,0,5
+1b354837-4925-4480-ac32-6b44d0957314,TCGA-LUAD,Alive,,female,white,69.0,25526.0,131.0,"Adenocarcinoma, NOS",,69.9,131.0,0.3586584531143053,0,Lung,1,0,5
+21fb46f9-4bbb-441c-af19-a687e9138344,TCGA-LUAD,Dead,488.0,male,white,70.0,26053.0,,Mucinous adenocarcinoma,,71.3,488.0,1.3360711841204653,1,Lung,1,1,5
+923b37e4-fcf7-46a0-8cb2-9139711fec7b,TCGA-LUAD,Alive,,female,white,72.0,26451.0,652.0,"Adenocarcinoma, NOS",,72.4,652.0,1.78507871321013,0,Lung,1,0,5
+ebcba7f2-ce13-4bae-97cd-91a6b1dcd465,TCGA-LUAD,Dead,1235.0,male,white,75.0,,,"Adenocarcinoma, NOS",,,1235.0,3.381245722108145,1,Lung,1,1,5
+199386c2-bb53-4fad-a1b6-59ab216a4a50,TCGA-LUAD,Alive,,male,asian,55.0,20381.0,2065.0,"Adenocarcinoma, NOS",,55.8,2065.0,5.653661875427789,0,Lung,1,1,2
+889aec8e-14ba-48d9-8fe1-f2416e82b333,TCGA-LUAD,Alive,,female,white,67.0,24631.0,845.0,"Adenocarcinoma, NOS",,67.4,845.0,2.3134839151266258,0,Lung,1,0,5
+0d66bf6c-eed0-4726-bd5b-3bf6d610b4e0,TCGA-LUAD,Dead,1268.0,female,white,79.0,,,"Carcinoid tumor, NOS",,,1268.0,3.4715947980835042,1,Lung,1,0,5
+cbfef004-b437-4d51-9d88-a2db50aa6481,TCGA-LUAD,Dead,557.0,female,white,69.0,25818.0,,"Adenocarcinoma, NOS",,70.7,557.0,1.5249828884325805,1,Lung,1,0,5
+9a50e7e4-831d-489f-87d2-979e987561cc,TCGA-LUAD,Alive,,male,not reported,66.0,24594.0,,Adenocarcinoma with mixed subtypes,,67.3,,,0,Lung,1,1,4
+bf15f7ad-9d92-473b-91d1-f24aa373ab97,TCGA-LUAD,Alive,,female,white,65.0,23808.0,1367.0,"Adenocarcinoma, NOS",,65.2,1367.0,3.7426420260095825,0,Lung,1,0,5
+1f1df7ea-00b9-4432-86de-da773d1451e5,TCGA-LUAD,Alive,,female,white,73.0,,,Not Reported,,,,,0,Lung,1,0,5
+c2a1de2e-6451-4c95-8ce6-263f2b7e6eff,TCGA-LUAD,Alive,,female,white,60.0,22150.0,2616.0,"Adenocarcinoma, NOS",,60.6,2616.0,7.162217659137577,0,Lung,1,0,5
+645903b5-ba37-48a1-985b-a019b8db3236,TCGA-LUAD,Alive,,female,not reported,,,,"Adenocarcinoma, NOS",,,,,0,Lung,1,0,4
+1575148b-0f63-44ee-86fd-93ae1a02be0b,TCGA-LUAD,Dead,250.0,male,white,74.0,27249.0,,"Adenocarcinoma, NOS",,74.6,250.0,0.6844626967830253,1,Lung,1,1,5
+9f81c602-8afa-4588-b0b6-6e5a1a128d5a,TCGA-LUAD,Dead,303.0,male,not reported,76.0,28094.0,303.0,Adenocarcinoma with mixed subtypes,,76.9,303.0,0.8295687885010267,1,Lung,1,1,4
+a52e99d6-a61a-439d-b0b1-ca7a0eabcb04,TCGA-LUAD,Alive,,female,white,42.0,,,"Hodgkin lymphoma, NOS",,,,,0,Lung,1,0,5
+193201a3-1447-47b1-bdf1-11ae0eb3b2f3,TCGA-LUAD,Dead,87.0,male,black or african american,71.0,26000.0,87.0,"Adenocarcinoma, NOS",,71.2,87.0,0.23819301848049282,1,Lung,1,1,3
+4d51ee44-e6f4-4bcb-be28-e9df54b39a8d,TCGA-LUAD,Dead,598.0,male,white,80.0,29783.0,,"Adenocarcinoma, NOS",,81.5,598.0,1.6372347707049966,1,Lung,1,1,5
+ad74c0e8-8878-4efc-997d-981cd547bc5b,TCGA-LUAD,Alive,,female,white,58.0,21527.0,1189.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,58.9,1189.0,3.2553045859000687,0,Lung,1,0,5
+9fcdccae-676e-4071-93c3-23d2d3ab0c00,TCGA-LUAD,Alive,,female,white,68.0,,,Not Reported,,,,,0,Lung,1,0,5
+8b119d1c-6d21-4bbd-8a00-12da7b97d6c4,TCGA-LUAD,Alive,,male,not reported,67.0,,,Not Reported,,,,,0,Lung,1,1,4
+127bf818-f7e5-46b5-a9de-39f6d96b8b83,TCGA-LUAD,Dead,864.0,male,white,68.0,25104.0,864.0,"Adenocarcinoma, NOS",,68.7,864.0,2.3655030800821355,1,Lung,1,1,5
+eeab558b-8d1e-4843-861d-dbfb06061758,TCGA-LUAD,Alive,,female,white,70.0,25658.0,610.0,"Adenocarcinoma, NOS",,70.2,610.0,1.6700889801505818,0,Lung,1,0,5
+195a5afb-b79f-44d2-9d12-884487630c2b,TCGA-LUAD,Dead,281.0,male,white,45.0,16746.0,281.0,"Adenocarcinoma, NOS",,45.8,281.0,0.7693360711841205,1,Lung,1,1,5
+e0acafdd-06d0-48a6-bd68-577ef666a419,TCGA-LUAD,Alive,,male,white,67.0,24752.0,477.0,Adenocarcinoma with mixed subtypes,,67.8,477.0,1.3059548254620124,0,Lung,1,1,5
+cbf1f718-6bb7-4daf-b9d6-fb294281decb,TCGA-LUAD,Alive,,female,white,75.0,27416.0,545.0,Acinar cell carcinoma,,75.1,545.0,1.4921286789869952,0,Lung,1,0,5
+0c0b610e-fe4c-406d-a5ed-5cc3b11dabf5,TCGA-LUAD,Alive,,male,white,64.0,24009.0,,Mucinous adenocarcinoma,,65.7,,,0,Lung,1,1,5
+d28e465c-e553-4c53-8bb7-3d8199b9a8a5,TCGA-LUAD,Alive,,male,not reported,62.0,22888.0,0.0,Adenocarcinoma with mixed subtypes,,62.7,0.0,0.0,0,Lung,1,1,4
+0b31dbdf-0623-48e4-a0ec-017650dceda7,TCGA-LUAD,Alive,,female,white,52.0,19202.0,,"Papillary adenocarcinoma, NOS",,52.6,,,0,Lung,1,0,5
+294cb595-0907-44c7-bbef-985a27c1e6e2,TCGA-LUAD,Alive,,female,white,76.0,27891.0,705.0,"Adenocarcinoma, NOS",,76.4,705.0,1.9301848049281314,0,Lung,1,0,5
+5af499be-d2b9-4eaf-9a9f-435dccb51917,TCGA-LUAD,Dead,237.0,female,white,59.0,21975.0,,"Adenocarcinoma, NOS",,60.2,237.0,0.648870636550308,1,Lung,1,0,5
+3434b91a-c05f-460f-a078-7b1bb6e7085d,TCGA-LUAD,Alive,,male,not reported,68.0,,,"Carcinoma in situ, NOS",,,,,0,Lung,1,1,4
+12b79b4f-c28c-418e-a1e7-e622f33fdcc2,TCGA-LUAD,Dead,460.0,male,white,85.0,31236.0,460.0,Adenocarcinoma with mixed subtypes,,85.5,460.0,1.2594113620807665,1,Lung,1,1,5
+44218b35-219c-4ad9-a01e-fde14067c4c0,TCGA-LUAD,Dead,1528.0,male,white,67.0,24713.0,1528.0,Adenocarcinoma with mixed subtypes,,67.7,1528.0,4.183436002737851,1,Lung,1,1,5
+8e41153b-9faf-45c3-8397-8a428ef5c0d5,TCGA-LUAD,Alive,,female,white,72.0,26302.0,487.0,"Adenocarcinoma, NOS",,72.0,487.0,1.3333333333333333,0,Lung,1,0,5
+f587c9ab-2949-4410-80d6-a050865d48aa,TCGA-LUAD,Alive,,female,not reported,74.0,,,Not Reported,,,,,0,Lung,1,0,4
+c0fdb152-25d2-404b-bec7-a43ece381f5b,TCGA-LUAD,Alive,,male,white,62.0,22926.0,492.0,"Adenocarcinoma, NOS",,62.8,492.0,1.3470225872689938,0,Lung,1,1,5
+8a16ddb3-4861-4128-bed9-0b1f94fe8cf7,TCGA-LUAD,Dead,628.0,female,white,77.0,28842.0,,Not Reported,,79.0,628.0,1.7193702943189597,1,Lung,1,0,5
+edf80622-aea2-4b50-bb69-691d6708aa83,TCGA-LUAD,Alive,,female,white,70.0,,,"Granulosa cell tumor, malignant",,,,,0,Lung,1,0,5
+d94fe32f-bedd-4f4c-9feb-fcb60d40f4bb,TCGA-LUAD,Dead,457.0,female,not reported,67.0,,,Not Reported,,,457.0,1.2511978097193703,1,Lung,1,0,4
+93b62fc5-a0d3-4d32-bf27-cd7c9d43cd5f,TCGA-LUAD,Alive,,female,black or african american,66.0,25281.0,,"Adenocarcinoma, NOS",,69.2,,,0,Lung,1,0,3
+9b38eded-3f46-4aaa-9991-68008d97bdbe,TCGA-LUAD,Alive,,female,white,47.0,,,Not Reported,,,,,0,Lung,1,0,5
+0780eb43-d5b5-4c3d-9825-beacba5cc723,TCGA-LUAD,Dead,1421.0,female,white,67.0,25362.0,,Not Reported,,69.4,1421.0,3.890485968514716,1,Lung,1,0,5
+70081320-540f-41d2-8687-ee6d011f8eb0,TCGA-LUAD,Dead,1265.0,female,white,54.0,20185.0,,"Adenocarcinoma, NOS",,55.3,1265.0,3.463381245722108,1,Lung,1,0,5
+230dc42d-681c-4e31-9d2e-c724e61829fb,TCGA-LUAD,Alive,,male,white,73.0,27003.0,285.0,"Adenocarcinoma, NOS",,73.9,285.0,0.7802874743326489,0,Lung,1,1,5
+100430c8-1446-45c8-af36-b6dbb3ddd0c1,TCGA-LUAD,Dead,653.0,female,white,86.0,,,Not Reported,,,653.0,1.787816563997262,1,Lung,1,0,5
+742e0e32-25b5-4d41-8bf5-364b571cfd93,TCGA-LUAD,Dead,139.0,female,white,65.0,23758.0,139.0,Adenocarcinoma with mixed subtypes,,65.0,139.0,0.3805612594113621,1,Lung,1,0,5
+722d6818-f1cb-49f4-b68a-fd0a31304681,TCGA-LUAD,Dead,244.0,female,not reported,56.0,20819.0,244.0,Adenocarcinoma with mixed subtypes,,57.0,244.0,0.6680355920602327,1,Lung,1,0,4
+75a0bb0b-6528-4fb8-a9e6-254905d21df4,TCGA-LUAD,Alive,,male,black or african american,60.0,19175.0,,"Squamous cell carcinoma, NOS",,52.5,,,0,Lung,1,1,3
+7099597a-b208-45b5-b9e0-11ab40d5e497,TCGA-LUAD,Alive,,female,white,33.0,12179.0,1183.0,"Adenocarcinoma, NOS",,33.3,1183.0,3.238877481177276,0,Lung,1,0,5
+c8544fb3-b26e-4672-bb81-a271db724b04,TCGA-LUAD,Dead,62.0,male,white,71.0,26058.0,62.0,"Adenocarcinoma, NOS",,71.3,62.0,0.1697467488021903,1,Lung,1,1,5
+9a9bd705-1ef1-4a6c-bb1e-bdd346dc01c0,TCGA-LUAD,Alive,,female,white,69.0,25477.0,547.0,"Adenocarcinoma, NOS",,69.8,547.0,1.4976043805612593,0,Lung,1,0,5
+8d535aa6-6d59-4965-b5ed-17217d8f5930,TCGA-LUAD,Alive,,female,white,75.0,26993.0,,Clear cell carcinoma,,73.9,,,0,Lung,1,0,5
+77828a90-8e2a-4664-b674-d837e6e34fe4,TCGA-LUAD,Alive,,male,white,84.0,31041.0,186.0,Acinar cell carcinoma,,85.0,186.0,0.5092402464065708,0,Lung,1,1,5
+0075437e-ba1a-46be-86d6-9773209a2b5e,TCGA-LUAD,Alive,,male,white,64.0,23689.0,1246.0,"Adenocarcinoma, NOS",,64.9,1246.0,3.4113620807665983,0,Lung,1,1,5
+77c4dbb2-eceb-4e0d-bcde-63dc817d5f35,TCGA-LUAD,Alive,,male,white,64.0,23509.0,567.0,"Adenocarcinoma, NOS",,64.4,567.0,1.5523613963039014,0,Lung,1,1,5
+0232d299-4cdf-4fd7-9a5e-8d13c208b40c,TCGA-LUAD,Alive,,male,white,59.0,21829.0,224.0,"Adenocarcinoma, NOS",,59.8,224.0,0.6132785763175906,0,Lung,1,1,5
+77f8c850-b4e6-46a1-ab12-a50e0044a0c8,TCGA-LUAD,Alive,,female,white,73.0,26716.0,674.0,"Adenocarcinoma, NOS",,73.1,674.0,1.8453114305270362,0,Lung,1,0,5
+035c0b2b-c722-443b-8962-db4ee92c7532,TCGA-LUAD,Alive,,female,white,73.0,26808.0,179.0,Adenocarcinoma with mixed subtypes,,73.4,179.0,0.49007529089664614,0,Lung,1,0,5
+793649e5-f479-4d64-8723-2ef488fe0fd9,TCGA-LUAD,Alive,,female,white,71.0,25998.0,2067.0,Adenocarcinoma with mixed subtypes,,71.2,2067.0,5.6591375770020536,0,Lung,1,0,5
+05534064-8b43-4c82-95da-70fd83bd6560,TCGA-LUAD,Dead,1197.0,female,white,66.0,24440.0,1197.0,"Bronchio-alveolar carcinoma, mucinous",,66.9,1197.0,3.277207392197125,1,Lung,1,0,5
+7a0ea814-f0de-4bc4-a81a-daa000559369,TCGA-LUAD,Dead,2393.0,male,white,72.0,26377.0,2393.0,"Adenocarcinoma, NOS",,72.2,2393.0,6.551676933607118,1,Lung,1,1,5
+06fe7f3e-4edd-4150-981c-93787ea19b39,TCGA-LUAD,Alive,,male,white,67.0,25010.0,,"Adenocarcinoma, NOS",,68.5,,,0,Lung,1,1,5
+079ae0b3-b64b-4b8e-ab7d-225b8046568c,TCGA-LUAD,Alive,,female,white,68.0,25062.0,605.0,"Bronchiolo-alveolar adenocarcinoma, NOS",,68.6,605.0,1.6563997262149213,0,Lung,1,0,5
+088edf89-d2b5-40c7-b066-df3bd383f7ea,TCGA-LUAD,Dead,428.0,female,white,61.0,22628.0,428.0,"Adenocarcinoma, NOS",,62.0,428.0,1.1718001368925393,1,Lung,1,0,5
+096bd95f-9900-4db2-b1c4-103902c3b31f,TCGA-LUAD,Dead,550.0,female,white,61.0,22938.0,,"Adenocarcinoma, NOS",,62.8,550.0,1.5058179329226558,1,Lung,1,0,5
+09918b81-4696-4cba-a45a-5fe7407c2337,TCGA-LUAD,Dead,777.0,female,white,71.0,26191.0,777.0,"Adenocarcinoma, NOS",,71.7,777.0,2.127310061601643,1,Lung,1,0,5
+0a1eea76-e19a-4547-9b24-abf7051cc4db,TCGA-LUAD,Alive,,male,white,50.0,18479.0,806.0,"Papillary adenocarcinoma, NOS",,50.6,806.0,2.206707734428474,0,Lung,1,1,5
+0a45f302-5748-48f3-9dc9-66c01843a68e,TCGA-LUAD,Dead,1379.0,female,white,53.0,19497.0,1379.0,"Adenocarcinoma, NOS",,53.4,1379.0,3.7754962354551678,1,Lung,1,0,5
+0b15fcb8-1fb7-497e-80b9-d3db66a3c0a2,TCGA-LUAD,Dead,243.0,male,white,74.0,27087.0,243.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,74.2,243.0,0.6652977412731006,1,Lung,1,1,5
+0c59ff96-5e4a-4664-a0b1-d057b4725483,TCGA-LUAD,Dead,594.0,male,white,65.0,24260.0,,Adenocarcinoma with mixed subtypes,,66.4,594.0,1.626283367556468,1,Lung,1,1,5
+7e83f9dd-b038-497b-a113-a55605398b7b,TCGA-LUAD,Alive,,male,white,61.0,22635.0,44.0,"Adenocarcinoma, NOS",,62.0,44.0,0.12046543463381246,0,Lung,1,1,5
+0d980584-4484-4063-8243-c3cd67f6f588,TCGA-LUAD,Alive,,male,white,78.0,28544.0,603.0,"Adenocarcinoma, NOS",,78.1,603.0,1.6509240246406571,0,Lung,1,1,5
+7f6455e8-fa3d-4452-acb2-8c9995073072,TCGA-LUAD,Alive,,female,white,49.0,18062.0,1097.0,"Adenocarcinoma, NOS",,49.5,1097.0,3.0034223134839153,0,Lung,1,0,5
+0ea4920f-f4c8-4590-84b3-eb419824e144,TCGA-LUAD,Alive,,female,white,66.0,24241.0,2973.0,"Adenocarcinoma, NOS",,66.4,2973.0,8.139630390143736,0,Lung,1,0,5
+807cc7d2-6e3b-4f2d-9531-0da994eeeada,TCGA-LUAD,Alive,,male,white,54.0,20011.0,478.0,"Adenocarcinoma, NOS",,54.8,478.0,1.3086926762491444,0,Lung,1,1,5
+114a34c0-983b-4d90-9181-1823c9637a63,TCGA-LUAD,Dead,1288.0,female,white,72.0,26444.0,1288.0,"Adenocarcinoma, NOS",,72.4,1288.0,3.5263518138261465,1,Lung,1,0,5
+11c2e619-8aeb-4f86-b03b-78f9a8099263,TCGA-LUAD,Alive,,male,white,72.0,26305.0,435.0,Acinar cell carcinoma,,72.0,435.0,1.1909650924024642,0,Lung,1,1,5
+83a6ed20-b3cf-48b9-8ed3-a080cd4951fa,TCGA-LUAD,Dead,1293.0,male,white,61.0,22344.0,1293.0,"Adenocarcinoma, NOS",,61.2,1293.0,3.540041067761807,1,Lung,1,1,5
+12c27db5-db2f-48dc-a2ca-9557b951f43e,TCGA-LUAD,Dead,468.0,male,white,63.0,23170.0,468.0,Acinar cell carcinoma,,63.4,468.0,1.2813141683778233,1,Lung,1,1,5
+84c3ba70-afa7-4b69-be69-7ec8d6022c56,TCGA-LUAD,Alive,,female,black or african american,72.0,26634.0,1060.0,"Adenocarcinoma, NOS",,72.9,1060.0,2.9021218343600275,0,Lung,1,0,3
+8504fd86-a70a-4cba-9ec8-25c9e60ca549,TCGA-LUAD,Dead,370.0,female,black or african american,79.0,29209.0,,"Adenocarcinoma, NOS",,80.0,370.0,1.0130047912388775,1,Lung,1,0,3
+15340dd3-84ae-49fb-989a-eb212f3e73da,TCGA-LUAD,Alive,,female,white,64.0,23484.0,1683.0,Adenocarcinoma with mixed subtypes,,64.3,1683.0,4.607802874743326,0,Lung,1,0,5
+86dac334-f30e-438e-810a-8e45f69dbb7e,TCGA-LUAD,Dead,336.0,female,white,58.0,21387.0,336.0,"Adenocarcinoma, NOS",,58.6,336.0,0.919917864476386,1,Lung,1,0,5
+16cd58db-d52c-403e-9e9c-6da2e99f6bad,TCGA-LUAD,Dead,3169.0,male,white,75.0,29811.0,,Not Reported,,81.6,3169.0,8.676249144421629,1,Lung,1,1,5
+875333ab-9048-462d-aaa2-693ad127e3cc,TCGA-LUAD,Dead,1357.0,male,black or african american,42.0,16098.0,,Not Reported,,44.1,1357.0,3.7152635181382614,1,Lung,1,1,3
+17e09b0d-eab2-40ec-ae3c-be9ab63fcef0,TCGA-LUAD,Alive,,male,white,63.0,23257.0,84.0,"Adenocarcinoma, NOS",,63.7,84.0,0.2299794661190965,0,Lung,1,1,5
+18478121-f1d1-4bdd-9511-8ab22f4a0660,TCGA-LUAD,Alive,,male,not reported,59.0,21832.0,7062.0,"Adenocarcinoma, NOS",,59.8,7062.0,19.3347022587269,0,Lung,1,1,4
+8994c8c4-9ea0-46cb-b4a5-0055d7da5bfa,TCGA-LUAD,Alive,,male,white,60.0,22138.0,704.0,Mucinous adenocarcinoma,,60.6,704.0,1.9274469541409993,0,Lung,1,1,5
+8ab8c4ba-311e-41d0-85ea-a0245aca1bdd,TCGA-LUAD,Alive,,female,white,56.0,20628.0,13.0,Mucinous adenocarcinoma,,56.5,13.0,0.03559206023271732,0,Lung,1,0,5
+1b31cdb3-1837-49d6-a857-1830f8800299,TCGA-LUAD,Alive,,male,white,69.0,25316.0,690.0,Acinar cell carcinoma,,69.3,690.0,1.88911704312115,0,Lung,1,1,5
+8cc6bcec-65df-46a9-a88c-09762a132857,TCGA-LUAD,Dead,1501.0,male,white,61.0,22937.0,,"Adenocarcinoma, NOS",,62.8,1501.0,4.1095140314852845,1,Lung,1,1,5
+1c58d9b8-17a2-4fc6-9898-fe6f47bd2c2a,TCGA-LUAD,Alive,,male,white,61.0,22305.0,864.0,Acinar cell carcinoma,,61.1,864.0,2.3655030800821355,0,Lung,1,1,5
+8e2aca86-7cba-4631-9f25-4d14219dbc6d,TCGA-LUAD,Alive,,female,asian,78.0,28533.0,896.0,"Papillary adenocarcinoma, NOS",,78.1,896.0,2.4531143052703626,0,Lung,1,0,2
+1d90c9f3-5025-4867-a2f0-e455b6a254fa,TCGA-LUAD,Alive,,female,white,76.0,27913.0,1285.0,Acinar cell carcinoma,,76.4,1285.0,3.5181382614647503,0,Lung,1,0,5
+8f52cccd-5709-4753-9670-31a573ee27ab,TCGA-LUAD,Dead,339.0,female,Unknown,62.0,22875.0,339.0,Signet ring cell carcinoma,,62.6,339.0,0.9281314168377823,1,Lung,1,0,0
+1fc81cd4-fa89-4135-8c3c-027ffae82b05,TCGA-LUAD,Alive,,female,white,51.0,18644.0,863.0,"Adenocarcinoma, NOS",,51.0,863.0,2.3627652292950034,0,Lung,1,0,5
+202e5df9-69f2-432c-a59d-cc5aa176e973,TCGA-LUAD,Dead,607.0,male,white,41.0,15266.0,607.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,41.8,607.0,1.6618754277891854,1,Lung,1,1,5
+927fc5e0-2c14-4c20-a49b-f10d8a1175c3,TCGA-LUAD,Alive,,female,black or african american,64.0,23617.0,476.0,"Adenocarcinoma, NOS",,64.7,476.0,1.3032169746748803,0,Lung,1,0,3
+2079155a-d91d-4246-a038-01934a580f32,TCGA-LUAD,Alive,,female,white,57.0,23421.0,,Not Reported,,64.1,,,0,Lung,1,0,5
+9536e32d-2707-48d2-a36d-08c521665bb9,TCGA-LUAD,Alive,,male,white,70.0,25870.0,323.0,"Adenocarcinoma, NOS",,70.8,323.0,0.8843258042436687,0,Lung,1,1,5
+23069f19-eba5-4ea5-ae7d-1ee4399ce7c1,TCGA-LUAD,Dead,1516.0,female,not reported,,,,Not Reported,,,1516.0,4.1505817932922655,1,Lung,1,0,4
+9582b436-145b-4f84-8f7f-8b39b8254cc1,TCGA-LUAD,Dead,656.0,female,white,74.0,27342.0,656.0,"Adenocarcinoma, NOS",,74.9,656.0,1.7960301163586585,1,Lung,1,0,5
+962fd4e7-9199-43d9-abce-e3dfa46da62c,TCGA-LUAD,Alive,,female,white,55.0,20410.0,539.0,"Adenocarcinoma, NOS",,55.9,539.0,1.4757015742642026,0,Lung,1,0,5
+25d4ea9e-f773-4f11-bac9-64efdad73211,TCGA-LUAD,Alive,,female,white,59.0,21760.0,824.0,"Adenocarcinoma, NOS",,59.6,824.0,2.2559890485968515,0,Lung,1,0,5
+96d93e23-bb0d-46a8-9685-5ed0d6b83059,TCGA-LUAD,Alive,,female,white,74.0,27359.0,747.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,74.9,747.0,2.0451745379876796,0,Lung,1,0,5
+9759bf3a-74ff-433f-99bb-f9406f222ed2,TCGA-LUAD,Alive,,female,black or african american,50.0,18542.0,1118.0,"Adenocarcinoma, NOS",,50.8,1118.0,3.060917180013689,0,Lung,1,0,3
+2923e404-38f2-437a-b57e-23401fbe0273,TCGA-LUAD,Alive,,male,white,46.0,17032.0,949.0,"Adenocarcinoma, NOS",,46.6,949.0,2.598220396988364,0,Lung,1,1,5
+98ee294a-46ed-4572-bdd4-a932c3498a25,TCGA-LUAD,Dead,950.0,female,white,75.0,26570.0,,Papillary transitional cell carcinoma,,72.7,950.0,2.6009582477754964,1,Lung,1,0,5
+2a43e61e-2151-4c5a-b062-74ce9dfd8d4a,TCGA-LUAD,Dead,58.0,female,black or african american,40.0,14681.0,58.0,"Adenocarcinoma, NOS",,40.2,58.0,0.15879534565366188,1,Lung,1,0,3
+9944f46f-9fa8-4e2c-a806-776bec7f8803,TCGA-LUAD,Alive,,male,white,70.0,28121.0,,"Adenocarcinoma, NOS",,77.0,,,0,Lung,1,1,5
+2db08267-d346-4d42-aac0-b76831903253,TCGA-LUAD,Dead,,female,not reported,,,,"Adenocarcinoma, NOS",,,,,1,Lung,1,0,4
+99c35245-e1c8-4805-b7a5-f703bb506030,TCGA-LUAD,Dead,74.0,male,white,77.0,25720.0,,"Squamous cell carcinoma, NOS",,70.4,74.0,0.2026009582477755,1,Lung,1,1,5
+2de1ba51-eae1-4a54-b7cd-d6d739fdc39d,TCGA-LUAD,Alive,,male,white,71.0,26285.0,3940.0,Adenocarcinoma with mixed subtypes,,72.0,3940.0,10.787132101300479,0,Lung,1,1,5
+9a63f744-4ed4-4b4d-aac6-f9bda66aa563,TCGA-LUAD,Dead,,female,not reported,,,,Not Reported,,,,,1,Lung,1,0,4
+2f0710f4-827b-45b2-9b7e-c27385b481a7,TCGA-LUAD,Alive,,male,white,56.0,,2109.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,,2109.0,5.774127310061601,0,Lung,1,1,5
+9b4eeecb-6aff-435b-a244-ec362af92b7f,TCGA-LUAD,Alive,,male,not reported,68.0,25506.0,,Not Reported,,69.8,,,0,Lung,1,1,4
+9b93a7c5-f9b4-4461-8078-0201a725c9cf,TCGA-LUAD,Alive,,male,black or african american,68.0,24942.0,4992.0,"Adenocarcinoma, NOS",,68.3,4992.0,13.66735112936345,0,Lung,1,1,3
+2fabeb98-05e3-4f55-97f5-fbc675e25a3d,TCGA-LUAD,Dead,444.0,male,white,55.0,20197.0,444.0,Adenocarcinoma with mixed subtypes,,55.3,444.0,1.215605749486653,1,Lung,1,1,5
+9ca1a26c-82e0-48b3-b3bb-2ed57086eeb1,TCGA-LUAD,Alive,,female,white,55.0,20331.0,626.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,55.7,626.0,1.7138945927446954,0,Lung,1,0,5
+9cfc1519-33e7-4145-a4ad-78b5c449853a,TCGA-LUAD,Alive,,male,white,68.0,24859.0,1119.0,Mucinous adenocarcinoma,,68.1,1119.0,3.0636550308008212,0,Lung,1,1,5
+9e22a3af-7f28-4757-8684-ed64a2a27ad1,TCGA-LUAD,Alive,,female,white,66.0,24346.0,,Acinar cell carcinoma,,66.7,,,0,Lung,1,0,5
+3199cfe5-3be3-43cd-a36b-5cf2c7a9929f,TCGA-LUAD,Alive,,male,black or african american,72.0,26862.0,,Adenocarcinoma with mixed subtypes,,73.5,,,0,Lung,1,1,3
+9ee20c0d-a1c3-47f3-abda-131b3f190f52,TCGA-LUAD,Dead,2174.0,female,black or african american,57.0,20961.0,2174.0,"Adenocarcinoma, NOS",,57.4,2174.0,5.952087611225188,1,Lung,1,0,3
+31c96e35-5e2f-429c-b12a-7bc5a497a300,TCGA-LUAD,Alive,,female,not reported,47.0,17471.0,1431.0,Adenocarcinoma with mixed subtypes,,47.8,1431.0,3.917864476386037,0,Lung,1,0,4
+a046888c-f153-4f35-a1b6-23dd1691a91a,TCGA-LUAD,Dead,118.0,male,white,61.0,,118.0,Adenocarcinoma with mixed subtypes,,,118.0,0.32306639288158795,1,Lung,1,1,5
+32592562-11fa-435a-b40b-2b242bae53aa,TCGA-LUAD,Dead,1115.0,female,not reported,,,,"Adenocarcinoma, NOS",,,1115.0,3.052703627652293,1,Lung,1,0,4
+a1e65587-24c1-4b41-92a7-4e1f15fffd78,TCGA-LUAD,Dead,905.0,female,white,69.0,25502.0,905.0,"Adenocarcinoma, NOS",,69.8,905.0,2.4777549623545516,1,Lung,1,0,5
+32d9935a-f5cd-43b3-88bd-09e6e2b9090d,TCGA-LUAD,Alive,,female,white,63.0,23956.0,,Not Reported,,65.6,,,0,Lung,1,0,5
+a244a99a-d7cc-4fb1-bc76-b66886481621,TCGA-LUAD,Alive,,female,not reported,51.0,18780.0,455.0,Adenocarcinoma with mixed subtypes,,51.4,455.0,1.2457221081451062,0,Lung,1,0,4
+33e3f736-7990-4f7a-ac35-863247566541,TCGA-LUAD,Alive,,male,not reported,65.0,23863.0,151.0,Adenocarcinoma with mixed subtypes,,65.3,151.0,0.4134154688569473,0,Lung,1,1,4
+34040b83-7e8a-4264-a551-b16621843e28,TCGA-LUAD,Alive,,male,not reported,70.0,25752.0,0.0,"Adenocarcinoma, NOS",,70.5,0.0,0.0,0,Lung,1,1,4
+345aef28-d49b-491b-a337-b1ac55c37d35,TCGA-LUAD,Alive,,male,white,66.0,,,Not Reported,,,,,0,Lung,1,1,5
+a3f6bc1c-19ab-4eeb-a9ac-3d2fac850bde,TCGA-LUAD,Alive,,male,white,66.0,24209.0,947.0,"Adenocarcinoma, NOS",,66.3,947.0,2.5927446954141,0,Lung,1,1,5
+34d8e84e-c3e1-417d-8b9b-8563d9fa0f8e,TCGA-LUAD,Dead,124.0,male,white,79.0,29124.0,124.0,"Adenocarcinoma, NOS",,79.7,124.0,0.3394934976043806,1,Lung,1,1,5
+a534b96b-1665-444a-9308-e610f2f0e510,TCGA-LUAD,Alive,,male,white,72.0,26594.0,592.0,"Adenocarcinoma, NOS",,72.8,592.0,1.620807665982204,0,Lung,1,1,5
+36470b30-a3b3-4d28-851b-918a7ff88011,TCGA-LUAD,Dead,719.0,female,white,67.0,24684.0,719.0,"Adenocarcinoma, NOS",,67.6,719.0,1.9685147159479808,1,Lung,1,0,5
+a5f2576a-d628-47de-a5df-76a4f3105dcc,TCGA-LUAD,Alive,,male,black or african american,56.0,20711.0,,"Adenocarcinoma, NOS",,56.7,,,0,Lung,1,1,3
+368e23f0-e573-4547-bf5a-14080baf737b,TCGA-LUAD,Dead,282.0,male,white,47.0,17238.0,282.0,Adenocarcinoma with mixed subtypes,,47.2,282.0,0.7720739219712526,1,Lung,1,1,5
+a7911bdc-13f1-434a-bfa3-f8ba55d15846,TCGA-LUAD,Dead,995.0,female,white,64.0,23703.0,995.0,"Adenocarcinoma, NOS",,64.9,995.0,2.724161533196441,1,Lung,1,0,5
+a815619f-dbba-469f-a1f7-dfbd51cd86c5,TCGA-LUAD,Dead,442.0,male,black or african american,75.0,27414.0,442.0,Adenocarcinoma with mixed subtypes,,75.1,442.0,1.2101300479123889,1,Lung,1,1,3
+37884d39-64e8-4242-b6bd-4c0a1daa21cd,TCGA-LUAD,Dead,210.0,female,asian,60.0,21921.0,210.0,"Adenocarcinoma, NOS",,60.0,210.0,0.5749486652977412,1,Lung,1,0,2
+a8d6694c-a213-4544-ac0b-63bce16d8f4e,TCGA-LUAD,Alive,,female,not reported,,,,"Adenocarcinoma, NOS",,,,,0,Lung,1,0,4
+383d1253-349f-43b3-bebd-9f1d1cf14b3d,TCGA-LUAD,Dead,307.0,male,white,71.0,26209.0,,"Adenocarcinoma, NOS",,71.8,307.0,0.840520191649555,1,Lung,1,1,5
+a905d275-9283-4fa6-bbbf-46019bd1bcb7,TCGA-LUAD,Alive,,female,not reported,77.0,28379.0,2360.0,Adenocarcinoma with mixed subtypes,,77.7,2360.0,6.461327857631759,0,Lung,1,0,4
+397d3f69-1453-4057-b177-8723eec923d1,TCGA-LUAD,Alive,,male,asian,81.0,29627.0,568.0,"Papillary adenocarcinoma, NOS",,81.1,568.0,1.5550992470910336,0,Lung,1,1,2
+39ab7174-5707-498d-9959-523680e04198,TCGA-LUAD,Alive,,female,white,70.0,25080.0,,"Medullary carcinoma, NOS",,68.7,,,0,Lung,1,0,5
+ab8d7f84-dd71-42c7-9471-4db967a9c89c,TCGA-LUAD,Dead,22.0,female,white,84.0,30689.0,22.0,"Adenocarcinoma, NOS",,84.0,22.0,0.06023271731690623,1,Lung,1,0,5
+ab9e6815-4d13-44db-93e5-553eb4f5bc95,TCGA-LUAD,Alive,,male,white,61.0,22543.0,218.0,"Adenocarcinoma, NOS",,61.7,218.0,0.5968514715947981,0,Lung,1,1,5
+3b89ac82-63f6-41b9-a03d-34b9ffc1550d,TCGA-LUAD,Dead,193.0,female,white,63.0,,,Not Reported,,,193.0,0.5284052019164955,1,Lung,1,0,5
+abd6647b-d2eb-404d-8283-443e92addf55,TCGA-LUAD,Alive,,female,white,73.0,27305.0,,"Adenocarcinoma, NOS",,74.8,,,0,Lung,1,0,5
+ac0d7a82-82cb-4aec-b859-e37375f3de8b,TCGA-LUAD,Alive,,female,not reported,78.0,28801.0,657.0,Acinar cell carcinoma,,78.9,657.0,1.7987679671457906,0,Lung,1,0,4
+adbaba9c-5efc-4130-82f6-8055eab13795,TCGA-LUAD,Alive,,female,white,61.0,22540.0,481.0,"Adenocarcinoma, NOS",,61.7,481.0,1.3169062286105406,0,Lung,1,0,5
+ae39e358-08d7-4367-ae68-82b469e791e4,TCGA-LUAD,Dead,922.0,male,white,59.0,21614.0,922.0,"Adenocarcinoma, NOS",,59.2,922.0,2.524298425735797,1,Lung,1,1,5
+ae702159-5b6a-41dd-868c-7540f9e1131c,TCGA-LUAD,Alive,,female,white,54.0,21239.0,,"Adenocarcinoma, NOS",,58.1,,,0,Lung,1,0,5
+aee86a89-0377-4080-b16c-408bfbe78687,TCGA-LUAD,Alive,,female,white,70.0,25583.0,411.0,Acinar cell carcinoma,,70.0,411.0,1.1252566735112937,0,Lung,1,0,5
+3daebe75-c6df-478e-8a4c-11186fd5ead9,TCGA-LUAD,Dead,33.0,male,white,70.0,25898.0,33.0,Adenocarcinoma with mixed subtypes,,70.9,33.0,0.09034907597535935,1,Lung,1,1,5
+b2285924-9813-4f46-bb8f-91a0efd8a9b6,TCGA-LUAD,Alive,,female,american indian or alaska native,66.0,24255.0,467.0,Invasive micropapillary carcinoma,,66.4,467.0,1.2785763175906912,0,Lung,1,0,1
+3e635902-5310-4406-8b4d-a238ce382639,TCGA-LUAD,Alive,,male,white,68.0,25202.0,448.0,"Adenocarcinoma, NOS",,69.0,448.0,1.2265571526351813,0,Lung,1,1,5
+b2bc53d6-ef78-4ae9-a6b5-1c7cad9a43eb,TCGA-LUAD,Alive,,female,black or african american,50.0,18289.0,1040.0,"Adenocarcinoma, NOS",,50.1,1040.0,2.847364818617385,0,Lung,1,0,3
+3fe8f8e4-5396-4362-82f5-366e2fb69db2,TCGA-LUAD,Alive,,male,not reported,57.0,21061.0,670.0,Adenocarcinoma with mixed subtypes,,57.7,670.0,1.834360027378508,0,Lung,1,1,4
+4036c6fc-c82e-47bb-a384-6f299dc30b52,TCGA-LUAD,Alive,,female,white,52.0,19200.0,719.0,"Adenocarcinoma, NOS",,52.6,719.0,1.9685147159479808,0,Lung,1,0,5
+b56dad1e-2fd5-47d8-9cc7-a54be9a1bae2,TCGA-LUAD,Dead,1215.0,male,white,65.0,24984.0,,Adenocarcinoma with mixed subtypes,,68.4,1215.0,3.326488706365503,1,Lung,1,1,5
+42259aa6-c9f5-4309-a956-dbf930312f44,TCGA-LUAD,Alive,,male,white,52.0,19106.0,50.0,Adenocarcinoma with mixed subtypes,,52.3,50.0,0.13689253935660506,0,Lung,1,1,5
+42432463-8e92-4f25-b72a-f03953527aa5,TCGA-LUAD,Dead,1798.0,female,white,74.0,28121.0,,"Adenocarcinoma, NOS",,77.0,1798.0,4.922655715263518,1,Lung,1,0,5
+b8475929-2d9d-4909-bd62-59684a140bd7,TCGA-LUAD,Alive,,female,not reported,58.0,21430.0,1126.0,Adenocarcinoma with mixed subtypes,,58.7,1126.0,3.082819986310746,0,Lung,1,0,4
+b86b1616-20a2-4300-8daa-03dcc9938215,TCGA-LUAD,Alive,,male,white,70.0,25730.0,691.0,"Adenocarcinoma, NOS",,70.4,691.0,1.891854893908282,0,Lung,1,1,5
+42ca54fc-c1ae-41cd-bca1-7fe9810db460,TCGA-LUAD,Alive,,male,white,59.0,22334.0,,Not Reported,,61.1,,,0,Lung,1,1,5
+ba49117e-dab6-4e7d-bc44-f11dcafa1318,TCGA-LUAD,Alive,,male,white,70.0,25929.0,119.0,"Adenocarcinoma, NOS",,71.0,119.0,0.3258042436687201,0,Lung,1,1,5
+bab335f9-b241-41a7-b107-79b9676b37b8,TCGA-LUAD,Alive,,female,black or african american,60.0,22159.0,617.0,Mucinous adenocarcinoma,,60.7,617.0,1.6892539356605065,0,Lung,1,0,3
+bab43415-d413-40be-a4c0-2c40a52afe6a,TCGA-LUAD,Dead,761.0,male,white,51.0,18856.0,761.0,"Adenocarcinoma, NOS",,51.6,761.0,2.083504449007529,1,Lung,1,1,5
+44dec838-b653-42a7-a58b-a1fd232cd68c,TCGA-LUAD,Alive,,male,not reported,68.0,24837.0,365.0,Adenocarcinoma with mixed subtypes,,68.0,365.0,0.999315537303217,0,Lung,1,1,4
+46592b7b-6968-42a6-83af-0917c9f4a9a5,TCGA-LUAD,Dead,949.0,male,white,45.0,17380.0,,Not Reported,,47.6,949.0,2.598220396988364,1,Lung,1,1,5
+467d96d7-4a42-4116-8c32-0e4b34f96d8a,TCGA-LUAD,Alive,,male,white,44.0,16409.0,653.0,"Adenocarcinoma, NOS",,44.9,653.0,1.787816563997262,0,Lung,1,1,5
+bf34664d-423d-4257-99d4-797f7d366455,TCGA-LUAD,Dead,409.0,female,white,67.0,24820.0,409.0,"Adenocarcinoma, NOS",,68.0,409.0,1.1197809719370295,1,Lung,1,0,5
+472337c2-a2fc-403a-8c17-69511193128b,TCGA-LUAD,Alive,,female,white,63.0,23369.0,139.0,Adenocarcinoma with mixed subtypes,,64.0,139.0,0.3805612594113621,0,Lung,1,0,5
+474b86d9-d897-467d-85d4-51dfa26ea107,TCGA-LUAD,Alive,,male,white,63.0,23107.0,2449.0,"Adenocarcinoma, NOS",,63.3,2449.0,6.704996577686516,0,Lung,1,1,5
+c0e263eb-1a83-4dc8-8abe-3dd2a59bae1b,TCGA-LUAD,Dead,19.0,male,white,59.0,21682.0,19.0,"Adenocarcinoma, NOS",,59.4,19.0,0.05201916495550993,1,Lung,1,1,5
+c1a01e8c-1f7e-4e24-bfad-90b73f88e992,TCGA-LUAD,Dead,697.0,male,white,61.0,22385.0,697.0,Adenocarcinoma with mixed subtypes,,61.3,697.0,1.9082819986310746,1,Lung,1,1,5
+c353f949-5f66-4a2c-b8f0-17be8bf19e0a,TCGA-LUAD,Alive,,female,white,65.0,23922.0,3635.0,Adenocarcinoma with mixed subtypes,,65.5,3635.0,9.952087611225188,0,Lung,1,0,5
+c497f8c7-2fb5-44d9-bc7c-69cfd0b51b54,TCGA-LUAD,Dead,1725.0,female,white,54.0,20063.0,1725.0,Adenocarcinoma with mixed subtypes,,54.9,1725.0,4.722792607802875,1,Lung,1,0,5
+4a1d30e8-e93a-41ed-8e54-08eaff6556a7,TCGA-LUAD,Alive,,female,white,60.0,20597.0,,"Endometrioid adenocarcinoma, NOS",,56.4,,,0,Lung,1,0,5
+c4cfa3cc-e305-42dd-be57-97efbb891659,TCGA-LUAD,Alive,,female,white,72.0,26448.0,839.0,"Papillary adenocarcinoma, NOS",,72.4,839.0,2.297056810403833,0,Lung,1,0,5
+c4d1e105-28b7-48df-abef-fbe09782fdb2,TCGA-LUAD,Dead,1632.0,male,white,72.0,26625.0,1632.0,"Papillary adenocarcinoma, NOS",,72.9,1632.0,4.468172484599589,1,Lung,1,1,5
+c583fdd1-8cd2-4c15-a23e-0644261f65da,TCGA-LUAD,Dead,1167.0,female,white,61.0,22525.0,1167.0,"Adenocarcinoma, NOS",,61.7,1167.0,3.1950718685831623,1,Lung,1,0,5
+4b22ad71-c585-4077-ad3c-c6e026d0c7fa,TCGA-LUAD,Dead,574.0,male,black or african american,59.0,22418.0,,Not Reported,,61.4,574.0,1.571526351813826,1,Lung,1,1,3
+c6d78e27-e510-4f57-abae-19efa6105a8d,TCGA-LUAD,Dead,1081.0,male,white,77.0,28387.0,1081.0,"Adenocarcinoma, NOS",,77.7,1081.0,2.9596167008898013,1,Lung,1,1,5
+c95957a7-1a1a-4c8d-bb61-7c99b500f224,TCGA-LUAD,Alive,,male,white,62.0,23073.0,,Adenocarcinoma with mixed subtypes,,63.2,,,0,Lung,1,1,5
+4c31127e-d095-4978-9dac-35153c27f6ed,TCGA-LUAD,Alive,,female,white,52.0,19074.0,800.0,"Adenocarcinoma, NOS",,52.2,800.0,2.190280629705681,0,Lung,1,0,5
+cbbea9f1-396a-4bf3-b67c-2cac3394dceb,TCGA-LUAD,Dead,500.0,female,white,50.0,18701.0,,Not Reported,,51.2,500.0,1.3689253935660506,1,Lung,1,0,5
+4d153600-81f9-44fb-b485-6355ec306d6a,TCGA-LUAD,Alive,,female,white,60.0,22261.0,1974.0,Adenocarcinoma with mixed subtypes,,60.9,1974.0,5.404517453798768,0,Lung,1,0,5
+cc4bd56a-25c5-4c48-b583-ac3aeb778ca6,TCGA-LUAD,Dead,1492.0,female,white,65.0,25140.0,,Not Reported,,68.8,1492.0,4.084873374401095,1,Lung,1,0,5
+4ef872e1-82c9-4939-9248-41ed9d3085b2,TCGA-LUAD,Dead,826.0,female,white,52.0,19080.0,826.0,"Adenocarcinoma, NOS",,52.2,826.0,2.2614647501711156,1,Lung,1,0,5
+50b2c647-aecd-4c81-af22-0d8116593552,TCGA-LUAD,Dead,268.0,female,white,73.0,26851.0,268.0,"Adenocarcinoma, NOS",,73.5,268.0,0.7337440109514032,1,Lung,1,0,5
+ccecce70-dd54-4c5b-bf9f-ca87d290cb00,TCGA-LUAD,Alive,,female,white,57.0,20967.0,141.0,"Adenocarcinoma, NOS",,57.4,141.0,0.3860369609856263,0,Lung,1,0,5
+528a0fce-0719-4b19-a69d-3f18681696c5,TCGA-LUAD,Dead,116.0,male,white,48.0,17607.0,116.0,"Adenocarcinoma, NOS",,48.2,116.0,0.31759069130732376,1,Lung,1,1,5
+52df074f-a402-4b78-9472-f8eb268efded,TCGA-LUAD,Alive,,female,white,69.0,25427.0,1432.0,Adenocarcinoma with mixed subtypes,,69.6,1432.0,3.920602327173169,0,Lung,1,0,5
+cd902d08-215e-4bd0-88e4-4fd01ab43cbf,TCGA-LUAD,Alive,,male,white,58.0,21214.0,740.0,"Bronchiolo-alveolar adenocarcinoma, NOS",,58.1,740.0,2.026009582477755,0,Lung,1,1,5
+54254f5a-50e8-4150-a9b7-56a0470d2a56,TCGA-LUAD,Dead,4961.0,female,white,62.0,22673.0,4961.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,62.1,4961.0,13.582477754962355,1,Lung,1,0,5
+ce15f31f-2bad-4485-96fa-495bfa262e66,TCGA-LUAD,Alive,,male,not reported,76.0,27881.0,578.0,Adenocarcinoma with mixed subtypes,,76.3,578.0,1.5824777549623545,0,Lung,1,1,4
+548b0b68-ff45-4d45-adbe-984259e4a68b,TCGA-LUAD,Dead,468.0,female,white,49.0,18170.0,468.0,"Adenocarcinoma, NOS",,49.7,468.0,1.2813141683778233,1,Lung,1,0,5
+54a0e4d7-c274-4569-9c25-45bbe26d7f21,TCGA-LUAD,Alive,,male,white,81.0,,2823.0,Mucinous adenocarcinoma,,,2823.0,7.728952772073922,0,Lung,1,1,5
+54a9cc9e-3eee-4caa-9f33-4ea64a2999ba,TCGA-LUAD,Dead,1043.0,female,white,40.0,15194.0,,"Adenocarcinoma, NOS",,41.6,1043.0,2.855578370978782,1,Lung,1,0,5
+54e90433-5218-4d83-848f-f995ecba2a63,TCGA-LUAD,Alive,,male,black or african american,69.0,25298.0,565.0,"Adenocarcinoma, NOS",,69.3,565.0,1.5468856947296372,0,Lung,1,1,3
+5510ad32-62fd-4adc-964a-ae4e997c2f4b,TCGA-LUAD,Dead,375.0,male,white,60.0,22091.0,375.0,"Adenocarcinoma, NOS",,60.5,375.0,1.0266940451745379,1,Lung,1,1,5
+d3e23815-7f9d-48aa-9aef-3a1dd9d464d7,TCGA-LUAD,Alive,,female,black or african american,70.0,25778.0,658.0,"Adenocarcinoma, NOS",,70.6,658.0,1.8015058179329226,0,Lung,1,0,3
+d5326429-9805-47f9-97b0-fbda658e3f01,TCGA-LUAD,Alive,,female,white,59.0,21854.0,372.0,"Adenocarcinoma, NOS",,59.8,372.0,1.0184804928131417,0,Lung,1,0,5
+5813997a-d7dc-4f7c-8d4b-e979832168a9,TCGA-LUAD,Alive,,male,black or african american,69.0,27362.0,,"Adenocarcinoma, NOS",,74.9,,,0,Lung,1,1,3
+58babefe-7e81-4594-ba29-50d1de92a5ab,TCGA-LUAD,Dead,,male,not reported,,,,"Adenocarcinoma, NOS",,,,,1,Lung,1,1,4
+591c068f-bbb1-4df2-9abb-d1a2e4a58372,TCGA-LUAD,Dead,1499.0,female,white,59.0,21728.0,1499.0,"Adenocarcinoma, NOS",,59.5,1499.0,4.1040383299110195,1,Lung,1,0,5
+595fc3ad-f603-421b-b130-52f1f617050b,TCGA-LUAD,Alive,,female,black or african american,50.0,18584.0,2161.0,Adenocarcinoma with mixed subtypes,,50.9,2161.0,5.916495550992471,0,Lung,1,0,3
+d717fa33-3c91-4ced-89c6-79ff5542f04c,TCGA-LUAD,Dead,1147.0,female,white,64.0,23510.0,1147.0,"Adenocarcinoma, NOS",,64.4,1147.0,3.14031485284052,1,Lung,1,0,5
+5ace9608-d38a-42f2-a877-ec7c9d211808,TCGA-LUAD,Dead,1209.0,female,not reported,58.0,21443.0,1209.0,"Adenocarcinoma, NOS",,58.7,1209.0,3.3100616016427105,1,Lung,1,0,4
+d7ae8efb-aa4d-4807-9772-55b0a28ccd5c,TCGA-LUAD,Dead,1454.0,female,white,65.0,24993.0,,"Adenocarcinoma, NOS",,68.4,1454.0,3.980835044490075,1,Lung,1,0,5
+d8faa3a7-6b3f-4e69-8c88-184e41055bd7,TCGA-LUAD,Alive,,female,white,54.0,19977.0,701.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,54.7,701.0,1.919233401779603,0,Lung,1,0,5
+5d2a9a4f-678d-4089-a8c5-81a5cb696629,TCGA-LUAD,Alive,,male,white,61.0,22628.0,264.0,"Adenocarcinoma, NOS",,62.0,264.0,0.7227926078028748,0,Lung,1,1,5
+daf0e08e-1738-43f8-874a-b37d79cbe3a7,TCGA-LUAD,Dead,244.0,male,white,69.0,25789.0,,Not Reported,,70.6,244.0,0.6680355920602327,1,Lung,1,1,5
+db0b9e63-4272-4f29-bf0e-1ec0fe79a9d7,TCGA-LUAD,Alive,,male,white,66.0,24436.0,310.0,"Adenocarcinoma, NOS",,66.9,310.0,0.8487337440109514,0,Lung,1,1,5
+db769d5c-a794-448d-9130-38a82d051c95,TCGA-LUAD,Alive,,female,white,64.0,23505.0,704.0,Mucinous adenocarcinoma,,64.4,704.0,1.9274469541409993,0,Lung,1,0,5
+5fd0f07b-8bb9-4378-bd26-28a26057e8fe,TCGA-LUAD,Alive,,male,white,64.0,23596.0,904.0,"Papillary adenocarcinoma, NOS",,64.6,904.0,2.4750171115674195,0,Lung,1,1,5
+5fe77d4a-a8a5-4c90-8ff2-9c3bbbb309ef,TCGA-LUAD,Alive,,male,white,83.0,30665.0,634.0,Adenocarcinoma with mixed subtypes,,84.0,634.0,1.7357973990417521,0,Lung,1,1,5
+6092bd5c-e97c-4a77-a4ad-c87623b17507,TCGA-LUAD,Alive,,female,white,67.0,24737.0,1965.0,"Papillary adenocarcinoma, NOS",,67.7,1965.0,5.379876796714579,0,Lung,1,0,5
+2b68b51f-bd4c-4bbb-b4e6-2eead53da2a4,TCGA-LUAD,Alive,,female,white,69.0,25911.0,,Adenocarcinoma with mixed subtypes,,70.9,,,0,Lung,1,0,5
+706420c4-8820-4b41-80d9-f3efd1d2a4f0,TCGA-LUAD,Dead,2620.0,male,Unknown,67.0,24516.0,2620.0,"Adenocarcinoma, NOS",,67.1,2620.0,7.173169062286106,1,Lung,1,1,0
+7093024b-cf56-4783-b973-b72573ed7f2b,TCGA-LUAD,Alive,,male,white,49.0,17951.0,526.0,Acinar cell carcinoma,,49.1,526.0,1.4401095140314852,0,Lung,1,1,5
+b256e065-c681-4f82-8b68-a8ef7c413791,TCGA-LUAD,Alive,,male,white,73.0,,,"Adenocarcinoma, NOS",,,,,0,Lung,1,1,5
+75589307-f141-4d0d-b35d-adbbc77b3dec,TCGA-LUAD,Alive,,female,white,87.0,31818.0,515.0,"Adenocarcinoma, NOS",,87.1,515.0,1.4099931553730323,0,Lung,1,0,5
+78a24c56-576c-4245-bb42-6603b3d19897,TCGA-LUAD,Alive,,female,not reported,65.0,23893.0,791.0,Adenocarcinoma with mixed subtypes,,65.4,791.0,2.1656399726214923,0,Lung,1,0,4
+75dd635e-8e0c-4c0b-b21c-20f77770218d,TCGA-LUAD,Alive,,female,white,67.0,26159.0,,"Adenocarcinoma, NOS",,71.6,,,0,Lung,1,0,5
+762dea8a-5b41-4058-979a-b7876ed13d7e,TCGA-LUAD,Dead,0.0,male,not reported,76.0,27971.0,0.0,Adenocarcinoma with mixed subtypes,,76.6,0.0,0.0,1,Lung,1,1,4
+765ad5a5-134b-4680-a6d4-1dd113dc47cc,TCGA-LUAD,Dead,879.0,male,black or african american,51.0,18939.0,879.0,"Adenocarcinoma, NOS",,51.9,879.0,2.406570841889117,1,Lung,1,1,3
+e1c55bac-bb41-4964-add5-ecd6ba04b58d,TCGA-LUAD,Dead,478.0,female,white,42.0,15585.0,478.0,"Adenocarcinoma, NOS",,42.7,478.0,1.3086926762491444,1,Lung,1,0,5
+7782ceaa-da49-4232-8b3f-534971adaad8,TCGA-LUAD,Dead,1531.0,female,white,81.0,29683.0,1531.0,Adenocarcinoma with mixed subtypes,,81.3,1531.0,4.191649555099247,1,Lung,1,0,5
+009be09b-f9f6-43b7-8f45-4a648f8123ce,TCGA-LUAD,Alive,,female,white,84.0,30706.0,427.0,"Adenocarcinoma, NOS",,84.1,427.0,1.1690622861054072,0,Lung,1,0,5
+01e9888d-b5b9-48f1-8ba6-8a89af108a04,TCGA-LUAD,Alive,,male,black or african american,49.0,18127.0,617.0,"Adenocarcinoma, NOS",,49.6,617.0,1.6892539356605065,0,Lung,1,1,3
+028e99e9-5b9a-4954-bb6e-6d4709a3cea8,TCGA-LUAD,Alive,,female,white,74.0,,3261.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,,3261.0,8.928131416837783,0,Lung,1,0,5
+78ae716b-0ca5-4c01-a053-d41288385fcd,TCGA-LUAD,Dead,,male,not reported,,,,"Adenocarcinoma, NOS",,,,,1,Lung,1,1,4
+03c3409a-9d16-41d0-9e26-f9fc2547a4c8,TCGA-LUAD,Dead,38.0,male,white,74.0,27381.0,38.0,"Adenocarcinoma, NOS",,75.0,38.0,0.10403832991101986,1,Lung,1,1,5
+055e9a43-3c00-4110-a303-e4407676bec0,TCGA-LUAD,Alive,,male,black or african american,54.0,19917.0,670.0,"Adenocarcinoma, NOS",,54.5,670.0,1.834360027378508,0,Lung,1,1,3
+7a111b4f-46e9-4e34-8024-0b9fdc5cbcd8,TCGA-LUAD,Alive,,female,white,70.0,25759.0,741.0,"Adenocarcinoma, NOS",,70.5,741.0,2.028747433264887,0,Lung,1,0,5
+7b0622ab-63ea-483f-ae40-d3ea587bdbba,TCGA-LUAD,Dead,976.0,male,white,62.0,22720.0,976.0,Adenocarcinoma with mixed subtypes,,62.2,976.0,2.6721423682409307,1,Lung,1,1,5
+7b89166e-c5b8-481b-aa70-495141499b91,TCGA-LUAD,Alive,,male,white,64.0,23443.0,938.0,"Adenocarcinoma, NOS",,64.2,938.0,2.568104038329911,0,Lung,1,1,5
+7b9479ff-23d6-4689-91f0-02efc94300f9,TCGA-LUAD,Alive,,female,white,78.0,28782.0,466.0,"Adenocarcinoma, NOS",,78.8,466.0,1.2758384668035592,0,Lung,1,0,5
+09078761-1c14-4d01-8e15-535c19a9b0f9,TCGA-LUAD,Alive,,female,white,59.0,21648.0,499.0,Adenocarcinoma with mixed subtypes,,59.3,499.0,1.3661875427789185,0,Lung,1,0,5
+7be86a90-6da8-4c01-8a7a-bc5cfef9894f,TCGA-LUAD,Alive,,female,white,75.0,28133.0,,Adenocarcinoma with mixed subtypes,,77.0,,,0,Lung,1,0,5
+7c4ed533-ee66-48be-a84b-ff8607742818,TCGA-LUAD,Dead,161.0,male,Unknown,68.0,25069.0,161.0,"Adenocarcinoma, NOS",,68.6,161.0,0.4407939767282683,1,Lung,1,1,0
+7c7d777b-bf00-4c24-97fc-922580d5605f,TCGA-LUAD,Alive,,male,white,67.0,24738.0,603.0,"Solid carcinoma, NOS",,67.7,603.0,1.6509240246406571,0,Lung,1,1,5
+7ca711ec-9ac0-4fa7-8a60-32ae84b8789a,TCGA-LUAD,Alive,,male,white,63.0,23201.0,1071.0,Acinar cell carcinoma,,63.5,1071.0,2.9322381930184807,0,Lung,1,1,5
+7cce924f-12a1-4895-9866-5d4b1869dde6,TCGA-LUAD,Dead,464.0,female,white,67.0,24773.0,464.0,"Papillary adenocarcinoma, NOS",,67.8,464.0,1.270362765229295,1,Lung,1,0,5
+7e7f089c-25f7-4e14-aed5-d741047b9e42,TCGA-LUAD,Dead,444.0,male,white,52.0,19088.0,444.0,"Adenocarcinoma, NOS",,52.3,444.0,1.215605749486653,1,Lung,1,1,5
+0d0d83d9-d558-4d38-977b-6f1b2471beda,TCGA-LUAD,Alive,,male,white,62.0,23592.0,,"Adenocarcinoma, NOS",,64.6,,,0,Lung,1,1,5
+7eb540b4-8dd3-4382-a488-e48b1c7213b3,TCGA-LUAD,Dead,308.0,male,white,60.0,21979.0,308.0,"Adenocarcinoma, NOS",,60.2,308.0,0.8432580424366872,1,Lung,1,1,5
+0df573ee-28f0-4244-b434-09e6ca59fbf0,TCGA-LUAD,Alive,,female,black or african american,77.0,28406.0,610.0,"Adenocarcinoma, NOS",,77.8,610.0,1.6700889801505818,0,Lung,1,0,3
+7fd03220-531e-4ef8-beca-e9703e8c0ae1,TCGA-LUAD,Alive,,male,white,65.0,23812.0,2261.0,Adenocarcinoma with mixed subtypes,,65.2,2261.0,6.190280629705681,0,Lung,1,1,5
+0fe909ea-d52c-4b71-816f-57f62d4a5744,TCGA-LUAD,Alive,,male,white,61.0,22584.0,1148.0,Acinar cell carcinoma,,61.8,1148.0,3.143052703627652,0,Lung,1,1,5
+1070ff27-17c9-43dd-a4f6-daa643eb9123,TCGA-LUAD,Dead,702.0,male,white,56.0,20576.0,702.0,"Adenocarcinoma, NOS",,56.3,702.0,1.9219712525667352,1,Lung,1,1,5
+81a0b2ff-a3d3-41bb-9ce6-765e6ae894af,TCGA-LUAD,Alive,,female,white,58.0,21310.0,2488.0,"Adenocarcinoma, NOS",,58.3,2488.0,6.811772758384668,0,Lung,1,0,5
+82476d2d-e403-4f6b-8dd6-cc84e3329478,TCGA-LUAD,Dead,189.0,female,white,74.0,27197.0,189.0,"Adenocarcinoma, NOS",,74.5,189.0,0.5174537987679672,1,Lung,1,0,5
+12c07138-e3fa-418a-89e3-628da12bc99e,TCGA-LUAD,Alive,,male,white,69.0,25384.0,630.0,"Adenocarcinoma, NOS",,69.5,630.0,1.7248459958932238,0,Lung,1,1,5
+83e38dbd-edab-47f2-b19f-6ea38fc6bece,TCGA-LUAD,Alive,,male,black or african american,58.0,21188.0,260.0,"Adenocarcinoma, NOS",,58.0,260.0,0.7118412046543463,0,Lung,1,1,3
+12ccd581-a921-41bc-bcee-4e9be54532cc,TCGA-LUAD,Dead,434.0,female,white,75.0,27733.0,434.0,"Adenocarcinoma, NOS",,75.9,434.0,1.1882272416153319,1,Lung,1,0,5
+1427cd18-5ad3-491a-9981-908e31ae49db,TCGA-LUAD,Dead,1258.0,male,white,78.0,28841.0,1258.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,79.0,1258.0,3.4442162902121836,1,Lung,1,1,5
+851867cb-9ad0-4fdf-ac75-9bb0427ad440,TCGA-LUAD,Alive,,female,black or african american,73.0,27024.0,486.0,"Adenocarcinoma, NOS",,74.0,486.0,1.3305954825462012,0,Lung,1,0,3
+15f12d2c-b834-4bfc-b526-f03bf85bfe96,TCGA-LUAD,Dead,1778.0,male,white,53.0,19640.0,1778.0,"Adenocarcinoma, NOS",,53.8,1778.0,4.867898699520876,1,Lung,1,1,5
+86faf16c-56fd-4b7b-a6b2-b4c83bec93e1,TCGA-LUAD,Dead,291.0,female,white,69.0,25294.0,291.0,Adenocarcinoma with mixed subtypes,,69.3,291.0,0.7967145790554415,1,Lung,1,0,5
+16d3c1c1-cf3a-44b6-b564-8ae5464b243d,TCGA-LUAD,Alive,,female,white,60.0,22592.0,,Adenocarcinoma with mixed subtypes,,61.9,,,0,Lung,1,0,5
+16e64a1e-08b0-4c27-8c69-fa64551f8ca4,TCGA-LUAD,Dead,3361.0,female,not reported,53.0,19563.0,3361.0,"Adenocarcinoma, NOS",,53.6,3361.0,9.201916495550993,1,Lung,1,0,4
+87f1b3df-4bc7-4336-b658-f30ac1c5c796,TCGA-LUAD,Alive,,male,white,72.0,26317.0,830.0,Acinar cell carcinoma,,72.1,830.0,2.272416153319644,0,Lung,1,1,5
+8869000d-09d7-465a-ac32-54d1935c43e7,TCGA-LUAD,Dead,694.0,female,white,66.0,24402.0,694.0,"Adenocarcinoma, NOS",,66.8,694.0,1.9000684462696784,1,Lung,1,0,5
+8981f0c9-7155-4c96-bf77-7d40fe404323,TCGA-LUAD,Alive,,male,white,73.0,26777.0,202.0,Adenocarcinoma with mixed subtypes,,73.3,202.0,0.5530458590006845,0,Lung,1,1,5
+1ab7ad70-0f80-41d8-8efa-3baebc8223cc,TCGA-LUAD,Alive,,male,white,63.0,23267.0,1126.0,Adenocarcinoma with mixed subtypes,,63.7,1126.0,3.082819986310746,0,Lung,1,1,5
+1b110eb4-a01d-4c50-ba18-77da4dedd549,TCGA-LUAD,Alive,,male,white,70.0,25578.0,1932.0,"Bronchio-alveolar carcinoma, mucinous",,70.0,1932.0,5.28952772073922,0,Lung,1,1,5
+8c695c24-e7f9-449a-9258-a1bc8a33bf9a,TCGA-LUAD,Dead,164.0,male,white,67.0,24725.0,164.0,"Papillary adenocarcinoma, NOS",,67.7,164.0,0.4490075290896646,1,Lung,1,1,5
+1c339545-c08a-4a77-b8e9-a7e49e53853f,TCGA-LUAD,Alive,,female,white,69.0,25440.0,1750.0,Acinar cell carcinoma,,69.7,1750.0,4.791238877481177,0,Lung,1,0,5
+8d0736fe-261c-445c-bfd2-a3ea3ceaf367,TCGA-LUAD,Alive,,female,white,59.0,21734.0,1400.0,"Adenocarcinoma, NOS",,59.5,1400.0,3.8329911019849416,0,Lung,1,0,5
+1d276b62-5e64-48fb-b2ce-5192b511fe37,TCGA-LUAD,Alive,,male,not reported,,,2368.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,,2368.0,6.483230663928816,0,Lung,1,1,4
+8f04660a-2efb-4947-9eab-375066b9eb33,TCGA-LUAD,Alive,,female,white,76.0,28015.0,2248.0,"Adenocarcinoma, NOS",,76.7,2248.0,6.154688569472964,0,Lung,1,0,5
+1f0a5312-0590-4230-9da9-fd0cfe693586,TCGA-LUAD,Alive,,female,white,70.0,25746.0,537.0,"Adenocarcinoma, NOS",,70.5,537.0,1.4702258726899384,0,Lung,1,0,5
+8fdbd88f-19ae-4ab8-bcd7-6bfa1bbde742,TCGA-LUAD,Alive,,male,white,60.0,21927.0,1305.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,60.0,1305.0,3.572895277207392,0,Lung,1,1,5
+9240d5fc-de23-4436-8099-da9bd3054860,TCGA-LUAD,Alive,,female,white,70.0,25728.0,1289.0,Adenocarcinoma with mixed subtypes,,70.4,1289.0,3.5290896646132786,0,Lung,1,0,5
+205759a6-6391-491b-9857-0080c3a5871e,TCGA-LUAD,Dead,2027.0,male,not reported,,,,Not Reported,,,2027.0,5.549623545516769,1,Lung,1,1,4
+93766482-2f20-4c8f-bbd8-bdd203c37d5a,TCGA-LUAD,Alive,,female,not reported,,,,"Papillary adenocarcinoma, NOS",,,,,0,Lung,1,0,4
+22302e92-fdfa-462a-9249-efdaa26ee5ed,TCGA-LUAD,Alive,,male,white,58.0,21682.0,,"Adenocarcinoma, NOS",,59.4,,,0,Lung,1,1,5
+953a908d-0993-42f6-853b-512611d19a2c,TCGA-LUAD,Alive,,female,black or african american,75.0,27676.0,35.0,"Adenocarcinoma, NOS",,75.8,35.0,0.09582477754962354,0,Lung,1,0,3
+243c6fd6-5516-46e5-bcef-292d93d7b7d3,TCGA-LUAD,Alive,,male,white,75.0,27693.0,414.0,Adenocarcinoma with mixed subtypes,,75.8,414.0,1.1334702258726899,0,Lung,1,1,5
+95fa64b0-91e1-4427-b81a-53c47a053563,TCGA-LUAD,Alive,,female,white,76.0,,,"Basal cell carcinoma, NOS",,,,,0,Lung,1,0,5
+258a3a41-211b-4c66-bd3b-ef03014a6967,TCGA-LUAD,Alive,,male,white,80.0,29534.0,133.0,Acinar cell carcinoma,,80.9,133.0,0.36413415468856947,0,Lung,1,1,5
+967d6548-5a84-4b7e-bc3f-2e522859fce6,TCGA-LUAD,Alive,,male,white,79.0,28869.0,287.0,"Adenocarcinoma, NOS",,79.0,287.0,0.785763175906913,0,Lung,1,1,5
+26a92e1b-08d8-45cd-af0c-eaf2514808a2,TCGA-LUAD,Alive,,male,white,67.0,24631.0,435.0,"Adenocarcinoma, NOS",,67.4,435.0,1.1909650924024642,0,Lung,1,1,5
+96dfa373-4597-49a5-942e-d9b4dc5d28fc,TCGA-LUAD,Dead,677.0,female,black or african american,63.0,23879.0,,Adenocarcinoma with mixed subtypes,,65.4,677.0,1.8535249828884326,1,Lung,1,0,3
+27fceec1-3298-4cdd-a4e6-8f5cf34604f0,TCGA-LUAD,Alive,,male,black or african american,53.0,19426.0,1013.0,"Adenocarcinoma, NOS",,53.2,1013.0,2.7734428473648185,0,Lung,1,1,3
+97831d28-ab41-4c18-bfc2-c4c6bc757d13,TCGA-LUAD,Alive,,female,white,62.0,23634.0,,"Adenocarcinoma, NOS",,64.7,,,0,Lung,1,0,5
+2a394996-809f-459f-a647-d209921ccbd2,TCGA-LUAD,Dead,340.0,male,black or african american,41.0,15162.0,340.0,Mucinous adenocarcinoma,,41.5,340.0,0.9308692676249144,1,Lung,1,1,3
+98ef41fa-3015-445a-bbdc-984361c911f7,TCGA-LUAD,Dead,1135.0,female,black or african american,56.0,20575.0,,Not Reported,,56.3,1135.0,3.1074606433949348,1,Lung,1,0,3
+2c03141e-a0bd-4e8d-91e4-9744d139ccce,TCGA-LUAD,Dead,4.0,female,white,87.0,31867.0,4.0,Acinar cell carcinoma,,87.2,4.0,0.010951403148528405,1,Lung,1,0,5
+2cd8ea73-cb3f-4b17-9b97-fa12eb03b85b,TCGA-LUAD,Dead,469.0,female,white,61.0,22626.0,469.0,"Adenocarcinoma, NOS",,61.9,469.0,1.2840520191649556,1,Lung,1,0,5
+996a0070-e9bf-4601-8ef7-60212108258d,TCGA-LUAD,Alive,,male,white,58.0,,930.0,"Adenocarcinoma, NOS",,,930.0,2.546201232032854,0,Lung,1,1,5
+9a2a226e-9605-4214-9320-469305e664e6,TCGA-LUAD,Alive,,female,black or african american,41.0,15065.0,6732.0,"Adenocarcinoma, NOS",,41.2,6732.0,18.431211498973305,0,Lung,1,0,3
+2efc156c-464a-4c2f-a854-39fefe32081c,TCGA-LUAD,Alive,,male,white,77.0,28382.0,2137.0,"Adenocarcinoma, NOS",,77.7,2137.0,5.8507871321013,0,Lung,1,1,5
+9b132e4f-7e35-4cc5-8711-43ad62b906d0,TCGA-LUAD,Dead,119.0,female,white,63.0,23067.0,119.0,"Adenocarcinoma, NOS",,63.2,119.0,0.3258042436687201,1,Lung,1,0,5
+2f09479f-87fc-4c34-8e2c-333e970a3681,TCGA-LUAD,Alive,,female,white,81.0,29887.0,79.0,"Adenocarcinoma, NOS",,81.8,79.0,0.216290212183436,0,Lung,1,0,5
+2f1a4b16-104c-40eb-8114-8245847bb716,TCGA-LUAD,Alive,,male,white,57.0,20918.0,353.0,"Solid carcinoma, NOS",,57.3,353.0,0.9664613278576317,0,Lung,1,1,5
+9c894668-88f5-4308-a1c0-6b8acc6aaaec,TCGA-LUAD,Dead,1046.0,male,white,70.0,25719.0,1046.0,"Adenocarcinoma, NOS",,70.4,1046.0,2.863791923340178,1,Lung,1,1,5
+301ca6e8-7981-4264-b4ae-38f56f7f9225,TCGA-LUAD,Dead,2617.0,female,white,68.0,25052.0,2617.0,"Adenocarcinoma, NOS",,68.6,2617.0,7.1649555099247095,1,Lung,1,0,5
+30f276a8-3a4b-4de8-aea0-7f605d100401,TCGA-LUAD,Alive,,male,asian,64.0,23620.0,578.0,"Papillary adenocarcinoma, NOS",,64.7,578.0,1.5824777549623545,0,Lung,1,1,2
+9dda72ec-1698-44e2-b35c-11e9a2704380,TCGA-LUAD,Alive,,male,white,71.0,26273.0,718.0,Acinar cell carcinoma,,71.9,718.0,1.9657768651608487,0,Lung,1,1,5
+31458638-e19c-43e5-ab13-9c64b3b3681d,TCGA-LUAD,Alive,,female,black or african american,68.0,24903.0,513.0,"Bronchio-alveolar carcinoma, mucinous",,68.2,513.0,1.404517453798768,0,Lung,1,0,3
+9e640ff7-996e-427b-b56c-519a1e23baab,TCGA-LUAD,Alive,,female,white,63.0,23330.0,415.0,"Adenocarcinoma, NOS",,63.9,415.0,1.136208076659822,0,Lung,1,0,5
+9f4f2ff3-3c02-4281-a398-b0d0955e58eb,TCGA-LUAD,Alive,,male,white,77.0,28413.0,813.0,Mucinous adenocarcinoma,,77.8,813.0,2.2258726899383983,0,Lung,1,1,5
+31ff69b5-9e58-44da-8326-bdfc7ee495c4,TCGA-LUAD,Alive,,female,white,45.0,16764.0,568.0,Adenocarcinoma with mixed subtypes,,45.9,568.0,1.5550992470910336,0,Lung,1,0,5
+a0e57b39-960e-4e46-8aa0-d0ee2fd9a7cc,TCGA-LUAD,Dead,666.0,male,white,59.0,21891.0,666.0,"Adenocarcinoma, NOS",,59.9,666.0,1.8234086242299794,1,Lung,1,1,5
+32a7b827-c3f9-4607-ae63-dae8caa2bc97,TCGA-LUAD,Alive,,female,white,48.0,17680.0,578.0,"Adenocarcinoma, NOS",,48.4,578.0,1.5824777549623545,0,Lung,1,0,5
+a214a959-3b21-4f25-a615-383cda7afdff,TCGA-LUAD,Alive,,male,white,56.0,20690.0,888.0,"Adenocarcinoma, NOS",,56.6,888.0,2.431211498973306,0,Lung,1,1,5
+33c71ead-4c2a-476d-85ef-885dbbfc2cbd,TCGA-LUAD,Alive,,female,white,56.0,20462.0,658.0,"Adenocarcinoma, NOS",,56.0,658.0,1.8015058179329226,0,Lung,1,0,5
+a250a369-e536-4a18-b7af-2911133d7bdc,TCGA-LUAD,Alive,,female,white,81.0,29487.0,,"Squamous cell carcinoma, NOS",,80.7,,,0,Lung,1,0,5
+a391d49f-a822-460b-981c-6fbe1868ee38,TCGA-LUAD,Alive,,female,white,81.0,29807.0,1621.0,"Clear cell adenocarcinoma, NOS",,81.6,1621.0,4.438056125941136,0,Lung,1,0,5
+a3de401d-91fe-49a2-bb07-81c1a06506e6,TCGA-LUAD,Alive,,male,not reported,70.0,25660.0,1369.0,Adenocarcinoma with mixed subtypes,,70.3,1369.0,3.7481177275838466,0,Lung,1,1,4
+349e6f38-2c67-4a69-a777-b9173a2a27cf,TCGA-LUAD,Dead,987.0,female,white,85.0,31234.0,987.0,"Adenocarcinoma, NOS",,85.5,987.0,2.702258726899384,1,Lung,1,0,5
+a3fd20b2-e001-44ab-9716-754e5ae70808,TCGA-LUAD,Alive,,female,white,77.0,28601.0,,Mucinous adenocarcinoma,,78.3,,,0,Lung,1,0,5
+35cb7841-9b09-465a-90c5-e3b8a9faad49,TCGA-LUAD,Dead,995.0,female,white,79.0,,,"Adenocarcinoma, NOS",,,995.0,2.724161533196441,1,Lung,1,0,5
+362000e4-cf7c-48fc-93cc-8f5994b442ea,TCGA-LUAD,Dead,440.0,male,white,88.0,32454.0,,"Squamous cell carcinoma, NOS",,88.9,440.0,1.2046543463381245,1,Lung,1,1,5
+a5bd7d50-9c14-49e6-89cf-6bf440c42309,TCGA-LUAD,Alive,,female,white,71.0,26180.0,408.0,Acinar cell carcinoma,,71.7,408.0,1.1170431211498972,0,Lung,1,0,5
+a65700c2-e58c-4fd4-aeb1-5686b8f4d212,TCGA-LUAD,Alive,,male,white,74.0,27280.0,866.0,Adenocarcinoma with mixed subtypes,,74.7,866.0,2.3709787816563996,0,Lung,1,1,5
+36ad7fc7-0cc1-4f01-aef1-f89b3cb4feac,TCGA-LUAD,Alive,,female,white,73.0,26704.0,385.0,"Adenocarcinoma, NOS",,73.1,385.0,1.054072553045859,0,Lung,1,0,5
+36bf02f8-c1c8-49f9-a417-adf88a205c70,TCGA-LUAD,Alive,,male,not reported,71.0,26084.0,791.0,Adenocarcinoma with mixed subtypes,,71.4,791.0,2.1656399726214923,0,Lung,1,1,4
+a816e355-be6f-4d16-b051-b6d86ed8cded,TCGA-LUAD,Alive,,female,white,63.0,23117.0,944.0,Mucinous adenocarcinoma,,63.3,944.0,2.5845311430527036,0,Lung,1,0,5
+37c8d73a-45ae-40fc-ba9a-721b755c1160,TCGA-LUAD,Alive,,female,white,58.0,21518.0,1870.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,58.9,1870.0,5.119780971937029,0,Lung,1,0,5
+a8de1beb-6296-44eb-bd63-c603f70faaf3,TCGA-LUAD,Alive,,male,white,76.0,27924.0,536.0,"Adenocarcinoma, NOS",,76.5,536.0,1.4674880219028064,0,Lung,1,1,5
+389f78a3-fa0b-406c-9434-aa0298341a8c,TCGA-LUAD,Alive,,female,white,62.0,,,Not Reported,,,,,0,Lung,1,0,5
+a9644274-13bb-4228-9b4f-14260ccc26eb,TCGA-LUAD,Alive,,female,white,83.0,30327.0,775.0,"Papillary adenocarcinoma, NOS",,83.0,775.0,2.1218343600273784,0,Lung,1,0,5
+3a23cdb5-2327-45ac-b0b5-d4afe038c757,TCGA-LUAD,Alive,,female,not reported,59.0,21884.0,761.0,Adenocarcinoma with mixed subtypes,,59.9,761.0,2.083504449007529,0,Lung,1,0,4
+3afa5045-a1ee-4a07-8aad-2e252b2f7d7a,TCGA-LUAD,Alive,,male,black or african american,57.0,20552.0,,"Adenocarcinoma, NOS",,56.3,,,0,Lung,1,1,3
+3b21b982-dba2-45f4-ad8d-21dc86fcaaa7,TCGA-LUAD,Alive,,female,black or african american,80.0,29452.0,546.0,Adenocarcinoma with mixed subtypes,,80.6,546.0,1.4948665297741273,0,Lung,1,0,3
+abab925c-bef3-4072-b9c4-40f808744593,TCGA-LUAD,Alive,,male,white,71.0,26003.0,377.0,"Adenocarcinoma, NOS",,71.2,377.0,1.0321697467488022,0,Lung,1,1,5
+3bc7026f-73f2-418b-bd62-f4768582b790,TCGA-LUAD,Alive,,male,white,61.0,22437.0,568.0,Adenocarcinoma with mixed subtypes,,61.4,568.0,1.5550992470910336,0,Lung,1,1,5
+3bd6badb-27ff-4d8d-b206-4d28dc264862,TCGA-LUAD,Alive,,female,white,74.0,27073.0,1130.0,"Adenocarcinoma, NOS",,74.1,1130.0,3.0937713894592744,0,Lung,1,0,5
+3c4ff061-d214-4d1c-8d2e-3034f207c252,TCGA-LUAD,Alive,,female,white,72.0,27099.0,,"Adenocarcinoma, NOS",,74.2,,,0,Lung,1,0,5
+aea68827-dc0f-484d-a00d-06deeaa4b3ce,TCGA-LUAD,Alive,,male,not reported,82.0,30194.0,730.0,Adenocarcinoma with mixed subtypes,,82.7,730.0,1.998631074606434,0,Lung,1,1,4
+3d2aa654-1b5f-4eb4-a1c2-af31f5760069,TCGA-LUAD,Alive,,male,not reported,41.0,15159.0,912.0,Adenocarcinoma with mixed subtypes,,41.5,912.0,2.4969199178644765,0,Lung,1,1,4
+afe83af5-af22-49c0-88b4-f1d0dfcbe238,TCGA-LUAD,Alive,,female,white,60.0,22260.0,476.0,"Adenocarcinoma, NOS",,60.9,476.0,1.3032169746748803,0,Lung,1,0,5
+3e1df30f-744a-41e9-a169-7dbbff66622e,TCGA-LUAD,Alive,,female,white,54.0,20021.0,184.0,Adenocarcinoma with mixed subtypes,,54.8,184.0,0.5037645448323066,0,Lung,1,0,5
+3e34c7d9-90fa-41e2-ba6b-4bbc332adc4e,TCGA-LUAD,Alive,,male,white,71.0,26044.0,608.0,"Adenocarcinoma, NOS",,71.3,608.0,1.6646132785763177,0,Lung,1,1,5
+b266cbf5-80de-4473-b16f-08c502d365ca,TCGA-LUAD,Alive,,female,white,72.0,26298.0,484.0,Acinar cell carcinoma,,72.0,484.0,1.325119780971937,0,Lung,1,0,5
+3ed05070-6633-4de5-9f72-090f93aa2e4d,TCGA-LUAD,Alive,,female,white,62.0,22850.0,11.0,"Adenocarcinoma, NOS",,62.6,11.0,0.030116358658453114,0,Lung,1,0,5
+b36b7567-30d3-4d0c-84c4-b203986e0fdb,TCGA-LUAD,Alive,,male,white,58.0,21773.0,,"Adenocarcinoma, NOS",,59.6,,,0,Lung,1,1,5
+41c4c704-825e-49f5-9d54-dbd7d30725e0,TCGA-LUAD,Alive,,female,white,55.0,20315.0,,Not Reported,,55.6,,,0,Lung,1,0,5
+b61abdfd-b7a0-4e1a-b570-d1eaecad3a9e,TCGA-LUAD,Dead,999.0,female,white,68.0,25132.0,999.0,"Adenocarcinoma, NOS",,68.8,999.0,2.735112936344969,1,Lung,1,0,5
+b87a5d92-4c09-48fe-bb08-b3c89a7c892e,TCGA-LUAD,Alive,,female,white,79.0,28908.0,1700.0,"Papillary adenocarcinoma, NOS",,79.1,1700.0,4.654346338124572,0,Lung,1,0,5
+b89de053-d253-447f-952e-9a2edcf6bca5,TCGA-LUAD,Dead,99.0,male,white,78.0,28728.0,99.0,"Adenocarcinoma, NOS",,78.7,99.0,0.27104722792607805,1,Lung,1,1,5
+b8b5ed35-b299-4c1e-9226-5ca055dc7a43,TCGA-LUAD,Alive,,female,white,76.0,28022.0,15.0,Acinar cell carcinoma,,76.7,15.0,0.04106776180698152,0,Lung,1,0,5
+42d208bd-cd77-4bfb-ad53-9fc072a87393,TCGA-LUAD,Alive,,female,white,51.0,18875.0,424.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,51.7,424.0,1.160848733744011,0,Lung,1,0,5
+433a32d0-93d1-4897-8e36-beb1ec1d998e,TCGA-LUAD,Dead,1498.0,female,white,73.0,26934.0,1498.0,Adenocarcinoma with mixed subtypes,,73.7,1498.0,4.101300479123887,1,Lung,1,0,5
+44adf4cb-2829-4153-80fd-a8b7ee0e654a,TCGA-LUAD,Alive,,male,white,69.0,25491.0,225.0,"Adenocarcinoma, NOS",,69.8,225.0,0.6160164271047228,0,Lung,1,1,5
+44d8c859-4b7a-4e9d-bffc-0de0e6afdcc4,TCGA-LUAD,Alive,,female,black or african american,59.0,21771.0,426.0,Adenocarcinoma with mixed subtypes,,59.6,426.0,1.1663244353182751,0,Lung,1,0,3
+bc4c4079-b449-485d-84e4-a40496e563e8,TCGA-LUAD,Alive,,male,white,61.0,22571.0,862.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,61.8,862.0,2.3600273785078714,0,Lung,1,1,5
+bcf2e591-9dae-440f-bd03-5f27c57db741,TCGA-LUAD,Alive,,male,black or african american,56.0,20625.0,165.0,Adenocarcinoma with mixed subtypes,,56.5,165.0,0.4517453798767967,0,Lung,1,1,3
+bd4e9a9f-17f3-4d33-92fc-fcc45dd0e7b4,TCGA-LUAD,Dead,855.0,female,white,72.0,26583.0,855.0,"Adenocarcinoma, NOS",,72.8,855.0,2.3408624229979464,1,Lung,1,0,5
+bebd0025-74e2-451b-93b3-86f82df43573,TCGA-LUAD,Dead,896.0,male,white,56.0,20853.0,,"Adenocarcinoma, NOS",,57.1,896.0,2.4531143052703626,1,Lung,1,1,5
+47062ad2-ba82-45c8-a871-bdea84f0c405,TCGA-LUAD,Dead,167.0,female,Unknown,75.0,27603.0,167.0,"Adenocarcinoma, NOS",,75.6,167.0,0.45722108145106094,1,Lung,1,0,0
+bf755bc2-b7aa-4c3c-8b3c-58b089b5cab6,TCGA-LUAD,Dead,343.0,male,white,77.0,28495.0,,"Adenocarcinoma, NOS",,78.0,343.0,0.9390828199863107,1,Lung,1,1,5
+c0c879f7-c332-4d31-9f7e-a3bf361b36ee,TCGA-LUAD,Alive,,female,white,52.0,19272.0,601.0,Adenocarcinoma with mixed subtypes,,52.8,601.0,1.6454483230663928,0,Lung,1,0,5
+47b749e6-e060-4aa1-8f29-976e489ba789,TCGA-LUAD,Dead,260.0,male,black or african american,61.0,22510.0,260.0,"Adenocarcinoma, NOS",,61.6,260.0,0.7118412046543463,1,Lung,1,1,3
+482eb2a7-6fed-4e4c-b1b6-14d6d869f855,TCGA-LUAD,Alive,,female,white,62.0,22862.0,24.0,"Papillary adenocarcinoma, NOS",,62.6,24.0,0.06570841889117043,0,Lung,1,0,5
+488646a1-0bdb-45f8-8c30-bef006924511,TCGA-LUAD,Alive,,male,not reported,,,3059.0,"Adenocarcinoma, NOS",,,3059.0,8.375085557837098,0,Lung,1,1,4
+497cc506-03fe-4ffa-860b-5a12adb1bc7d,TCGA-LUAD,Alive,,male,white,74.0,27270.0,829.0,"Papillary adenocarcinoma, NOS",,74.7,829.0,2.269678302532512,0,Lung,1,1,5
+c4c1469d-752f-42b6-8686-714ad4a8ac97,TCGA-LUAD,Alive,,male,not reported,,,2590.0,"Adenocarcinoma, NOS",,,2590.0,7.091033538672143,0,Lung,1,1,4
+4ad63dac-76a7-4527-abce-d7a0184e8739,TCGA-LUAD,Dead,434.0,female,white,75.0,27632.0,434.0,"Adenocarcinoma, NOS",,75.7,434.0,1.1882272416153319,1,Lung,1,0,5
+4addf05f-3668-4b3f-a17f-c0227329ca52,TCGA-LUAD,Alive,,male,not reported,67.0,24532.0,1523.0,"Adenocarcinoma, NOS",,67.2,1523.0,4.16974674880219,0,Lung,1,1,4
+c6b680e3-d96e-4fc7-8053-77454b7a14fa,TCGA-LUAD,Alive,,male,white,74.0,27062.0,,Adenocarcinoma with mixed subtypes,,74.1,,,0,Lung,1,1,5
+4b7cd595-e7f9-45a8-b736-a8c7c42d9539,TCGA-LUAD,Alive,,female,asian,48.0,17957.0,,"Papillary adenocarcinoma, NOS",,49.2,,,0,Lung,1,0,2
+4b92fce2-3772-40eb-ab34-a27937b58590,TCGA-LUAD,Dead,154.0,male,white,75.0,27597.0,154.0,"Adenocarcinoma, NOS",,75.6,154.0,0.4216290212183436,1,Lung,1,1,5
+c9c533ee-e154-4a56-bce9-b5af37574b2f,TCGA-LUAD,Dead,561.0,female,black or african american,61.0,22806.0,,"Adenocarcinoma, NOS",,62.4,561.0,1.5359342915811087,1,Lung,1,0,3
+4cd3d483-2283-4c6a-a57a-444216119d34,TCGA-LUAD,Alive,,female,white,68.0,20499.0,,Not Reported,,56.1,,,0,Lung,1,0,5
+cc3d9750-7ce0-489f-86d4-8017b7ebed29,TCGA-LUAD,Dead,1830.0,female,white,79.0,28988.0,1830.0,Adenocarcinoma with mixed subtypes,,79.4,1830.0,5.0102669404517455,1,Lung,1,0,5
+4e7b2af4-b158-41a7-be22-bea227a759e6,TCGA-LUAD,Dead,952.0,male,white,77.0,28458.0,952.0,"Adenocarcinoma, NOS",,77.9,952.0,2.6064339493497606,1,Lung,1,1,5
+cc68632c-b1e3-491b-b562-9468e2d1c101,TCGA-LUAD,Alive,,male,white,70.0,25791.0,1157.0,"Adenocarcinoma, NOS",,70.6,1157.0,3.167693360711841,0,Lung,1,1,5
+4efc2dac-6330-4b7a-a529-a27285f5fc23,TCGA-LUAD,Alive,,female,not reported,,,,"Adenocarcinoma, NOS",,,,,0,Lung,1,0,4
+501c987e-d1eb-48a9-89eb-72a5062c90b4,TCGA-LUAD,Dead,179.0,female,white,59.0,21742.0,179.0,Adenocarcinoma with mixed subtypes,,59.5,179.0,0.49007529089664614,1,Lung,1,0,5
+ccda26c1-a6d6-4317-8cf8-8a87e15ce12e,TCGA-LUAD,Alive,,male,white,65.0,24259.0,,Not Reported,,66.4,,,0,Lung,1,1,5
+5202458b-c38a-47c0-a0ba-5f1a59a762a0,TCGA-LUAD,Alive,,female,black or african american,39.0,14527.0,3759.0,"Papillary adenocarcinoma, NOS",,39.8,3759.0,10.291581108829568,0,Lung,1,0,3
+ccfdad76-cc45-447f-bed8-ede8f6a8844d,TCGA-LUAD,Alive,,female,white,76.0,27946.0,609.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,76.5,609.0,1.6673511293634498,0,Lung,1,0,5
+cd0dc947-b708-464e-beb7-954c9d4583e7,TCGA-LUAD,Dead,711.0,male,white,66.0,24253.0,711.0,"Adenocarcinoma, NOS",,66.4,711.0,1.946611909650924,1,Lung,1,1,5
+532c1852-76dd-489f-9380-36766d6e3c34,TCGA-LUAD,Dead,625.0,female,black or african american,61.0,22619.0,625.0,Adenocarcinoma with mixed subtypes,,61.9,625.0,1.7111567419575633,1,Lung,1,0,3
+cd9e70e4-8622-4a07-8646-63f8275c1737,TCGA-LUAD,Dead,1229.0,female,black or african american,51.0,19281.0,,"Adenocarcinoma, NOS",,52.8,1229.0,3.3648186173853527,1,Lung,1,0,3
+54480f58-7e63-4aed-a116-c2c2252e8364,TCGA-LUAD,Alive,,female,white,76.0,27853.0,36.0,"Adenocarcinoma, NOS",,76.3,36.0,0.09856262833675565,0,Lung,1,0,5
+54775a66-08cc-4f38-98f2-e7b2b5cec994,TCGA-LUAD,Alive,,female,white,69.0,25315.0,997.0,"Bronchiolo-alveolar adenocarcinoma, NOS",,69.3,997.0,2.729637234770705,0,Lung,1,0,5
+ceead734-1ce0-4385-b65a-a9c853b7308e,TCGA-LUAD,Alive,,male,white,57.0,20888.0,1175.0,"Adenocarcinoma, NOS",,57.2,1175.0,3.216974674880219,0,Lung,1,1,5
+d15b7b29-c5c5-41d8-b83b-7cc12fe92820,TCGA-LUAD,Dead,91.0,male,not reported,57.0,20940.0,,Not Reported,,57.3,91.0,0.24914442162902123,1,Lung,1,1,4
+d2824e6d-3784-45c2-9b0f-52b17356b5da,TCGA-LUAD,Alive,,female,not reported,,,1333.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,,1333.0,3.649555099247091,0,Lung,1,0,4
+d288b69f-1e79-4429-8646-9994b7c54f8f,TCGA-LUAD,Dead,593.0,male,white,72.0,26481.0,593.0,"Adenocarcinoma, NOS",,72.5,593.0,1.623545516769336,1,Lung,1,1,5
+d344dae0-adf4-4697-b703-7690c13d8331,TCGA-LUAD,Alive,,female,white,74.0,27040.0,651.0,Adenocarcinoma with mixed subtypes,,74.0,651.0,1.782340862422998,0,Lung,1,0,5
+552712d3-da16-441e-ba93-11810793d598,TCGA-LUAD,Alive,,male,white,71.0,26289.0,129.0,"Solid carcinoma, NOS",,72.0,129.0,0.3531827515400411,0,Lung,1,1,5
+d3ff328c-2488-47bd-8663-366b6812c7b5,TCGA-LUAD,Dead,929.0,female,white,76.0,28024.0,929.0,"Adenocarcinoma, NOS",,76.7,929.0,2.543463381245722,1,Lung,1,0,5
+562a562b-ca03-44ac-b282-b51b457d8dae,TCGA-LUAD,Dead,414.0,female,white,70.0,26219.0,,Adenocarcinoma with mixed subtypes,,71.8,414.0,1.1334702258726899,1,Lung,1,0,5
+d45aee46-838e-44af-8422-46710b3240a8,TCGA-LUAD,Alive,,female,black or african american,63.0,23055.0,1125.0,Adenocarcinoma with mixed subtypes,,63.1,1125.0,3.080082135523614,0,Lung,1,0,3
+575752f8-2788-43cd-afde-f0f600f39d18,TCGA-LUAD,Alive,,female,white,69.0,,,"Basal cell carcinoma, NOS",,,,,0,Lung,1,0,5
+d63c028b-b6d3-49ce-b63e-261eed3b86df,TCGA-LUAD,Alive,,male,white,53.0,19390.0,418.0,"Adenocarcinoma, NOS",,53.1,418.0,1.1444216290212184,0,Lung,1,1,5
+d6e274a0-6425-437b-bc07-1225be7808d5,TCGA-LUAD,Alive,,male,white,52.0,19270.0,1239.0,"Adenocarcinoma, NOS",,52.8,1239.0,3.3921971252566734,0,Lung,1,1,5
+5a2f8140-8f90-4e94-b703-5fa5aa96be7b,TCGA-LUAD,Alive,,female,white,65.0,23922.0,60.0,"Adenocarcinoma, NOS",,65.5,60.0,0.16427104722792607,0,Lung,1,0,5
+5abd6651-69be-42f8-bdc0-308e68136d31,TCGA-LUAD,Alive,,male,white,60.0,22002.0,7248.0,"Adenocarcinoma, NOS",,60.2,7248.0,19.84394250513347,0,Lung,1,1,5
+d721bfe0-90e3-415e-b9f3-1a270efa5fbb,TCGA-LUAD,Dead,869.0,female,white,74.0,27332.0,869.0,"Adenocarcinoma, NOS",,74.8,869.0,2.379192334017796,1,Lung,1,0,5
+5c06d97f-2aaa-43de-b085-09d7829356ba,TCGA-LUAD,Alive,,female,not reported,,,2832.0,"Adenocarcinoma, NOS",,,2832.0,7.753593429158111,0,Lung,1,0,4
+5c266025-e590-457c-af86-4c2dc9797267,TCGA-LUAD,Alive,,female,white,80.0,29811.0,,Adenocarcinoma with mixed subtypes,,81.6,,,0,Lung,1,0,5
+da345947-498b-4272-a231-a987ed4fe151,TCGA-LUAD,Alive,,female,white,73.0,26800.0,351.0,"Adenocarcinoma, NOS",,73.4,351.0,0.9609856262833676,0,Lung,1,0,5
+5d5cc436-6e57-4d23-a164-7f5153c2e666,TCGA-LUAD,Alive,,male,black or african american,59.0,21725.0,1864.0,"Adenocarcinoma, NOS",,59.5,1864.0,5.103353867214237,0,Lung,1,1,3
+5d7ec32a-049f-4997-9882-1b3ac157e02d,TCGA-LUAD,Alive,,male,white,75.0,27409.0,0.0,"Adenocarcinoma, NOS",,75.0,0.0,0.0,0,Lung,1,1,5
+5f4934be-eee3-40e1-8838-38103badc898,TCGA-LUAD,Dead,1790.0,female,white,76.0,27993.0,1790.0,"Adenocarcinoma, NOS",,76.6,1790.0,4.900752908966461,1,Lung,1,0,5
+dbd5b0de-94c9-45dd-afb3-6820a7ecaca2,TCGA-LUAD,Alive,,female,white,52.0,19310.0,174.0,"Adenocarcinoma, NOS",,52.9,174.0,0.47638603696098564,0,Lung,1,0,5
+dc9eaaa0-0bfd-46d0-994f-310826879da4,TCGA-LUAD,Alive,,female,white,42.0,15355.0,230.0,Adenocarcinoma with mixed subtypes,,42.0,230.0,0.6297056810403833,0,Lung,1,0,5
+dcd066ba-5894-453e-b1da-82092858c3db,TCGA-LUAD,Dead,376.0,male,white,52.0,19301.0,376.0,"Adenocarcinoma, NOS",,52.8,376.0,1.0294318959616702,1,Lung,1,1,5
+6144d666-8f77-4efe-95f1-f9e5c4e5e056,TCGA-LUAD,Alive,,female,white,62.0,22745.0,595.0,"Adenocarcinoma, NOS",,62.3,595.0,1.6290212183436004,0,Lung,1,0,5
+61c655ec-52b5-453f-a6cc-b2aba445b027,TCGA-LUAD,Dead,2318.0,male,white,72.0,28460.0,,"Adenocarcinoma, NOS",,77.9,2318.0,6.346338124572211,1,Lung,1,1,5
+62380447-3b94-4e7c-823a-72dd7b4ccf3a,TCGA-LUAD,Alive,,male,white,62.0,22952.0,2696.0,Adenocarcinoma with mixed subtypes,,62.8,2696.0,7.381245722108145,0,Lung,1,1,5
+63bd2175-4b7c-44c9-aef3-9efc8f79837b,TCGA-LUAD,Dead,275.0,male,not reported,60.0,22066.0,275.0,"Adenocarcinoma, NOS",,60.4,275.0,0.7529089664613279,1,Lung,1,1,4
+646910ee-5f5d-40ac-a21a-75790f89430a,TCGA-LUAD,Alive,,female,white,59.0,21738.0,805.0,"Adenocarcinoma, NOS",,59.5,805.0,2.2039698836413417,0,Lung,1,0,5
+656a5eb4-e4a5-4d21-a800-3586f4d6588b,TCGA-LUAD,Alive,,female,white,63.0,23358.0,505.0,"Bronchiolo-alveolar carcinoma, non-mucinous",,64.0,505.0,1.3826146475017111,0,Lung,1,0,5
+659668e8-f0d9-4ff2-bbc8-9246f2ef49ab,TCGA-LUAD,Alive,,female,white,70.0,25870.0,872.0,"Adenocarcinoma, NOS",,70.8,872.0,2.3874058863791925,0,Lung,1,0,5
+66763a0c-6cda-4832-a0cc-e7b496d78eaa,TCGA-LUAD,Alive,,male,not reported,70.0,25689.0,913.0,Adenocarcinoma with mixed subtypes,,70.3,913.0,2.4996577686516086,0,Lung,1,1,4
+66ed89f6-8ba2-49d0-af0f-4b6ebf2381bf,TCGA-LUAD,Dead,1026.0,female,white,71.0,26081.0,1026.0,"Adenocarcinoma, NOS",,71.4,1026.0,2.809034907597536,1,Lung,1,0,5
+673493f6-975c-49e8-934c-001e9a0fff90,TCGA-LUAD,Alive,,female,white,82.0,29989.0,573.0,"Adenocarcinoma, NOS",,82.1,573.0,1.568788501026694,0,Lung,1,0,5
+865cda60-ec30-4562-b681-0e90737a97ca,TCGA-LAML,Dead,31.0,female,black or african american,76.0,27971.0,31.0,Acute myeloid leukemia with maturation,,76.6,31.0,0.08487337440109514,1,Blood,0,0,3
+fb4c9803-3690-4f6a-9402-72a4f36d64d1,TCGA-LAML,Dead,792.0,female,white,61.0,22584.0,792.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,61.8,792.0,2.1683778234086244,1,Blood,0,0,5
+61db06eb-299a-48b3-8c71-4bea78169b4c,TCGA-LAML,Dead,245.0,female,white,57.0,20939.0,245.0,Acute myelomonocytic leukemia,,57.3,245.0,0.6707734428473648,1,Blood,0,0,5
+233400c5-6a47-40e2-bf2a-8b7fc9df462b,TCGA-LAML,Dead,212.0,female,white,31.0,11596.0,212.0,Acute myeloid leukemia with maturation,,31.7,212.0,0.5804243668720055,1,Blood,0,0,5
+5b846aad-6133-4133-a78b-65be81332cb4,TCGA-LAML,Dead,608.0,male,white,53.0,19481.0,608.0,Acute myeloid leukemia without maturation,,53.3,608.0,1.6646132785763177,1,Blood,0,1,5
+036b18ea-3cf7-4f3e-a84c-c6aea5e4fcd7,TCGA-LAML,Alive,,female,black or african american,51.0,18689.0,1186.0,Acute myelomonocytic leukemia,,51.2,1186.0,3.247091033538672,0,Blood,0,0,3
+cb262c7c-2646-45e3-bea9-376e48eefe65,TCGA-LAML,Dead,486.0,female,white,51.0,18963.0,486.0,Acute myeloid leukemia with maturation,,51.9,486.0,1.3305954825462012,1,Blood,0,0,5
+fcc2192a-1f54-49c5-b3e6-e9bd8025df67,TCGA-LAML,Dead,304.0,male,white,76.0,27881.0,304.0,Acute megakaryoblastic leukaemia,,76.3,304.0,0.8323066392881588,1,Blood,0,1,5
+5088a594-ae6e-4f03-8cfd-97d9c62b2196,TCGA-LAML,Alive,,female,white,60.0,21946.0,638.0,Acute myeloid leukemia without maturation,,60.1,638.0,1.7467488021902806,0,Blood,0,0,5
+11ed5289-050e-434a-a24e-79854b0d9dcc,TCGA-LAML,Dead,366.0,female,black or african american,25.0,9253.0,366.0,Acute myeloid leukemia with maturation,,25.3,366.0,1.002053388090349,1,Blood,0,0,3
+23e96996-f438-4e81-b3b0-d12a0c046fcd,TCGA-LAML,Dead,731.0,female,white,64.0,23468.0,731.0,Acute myelomonocytic leukemia,,64.3,731.0,2.001368925393566,1,Blood,0,0,5
+ada38f3e-8020-4394-9e7c-50d06dd04769,TCGA-LAML,Dead,577.0,male,white,76.0,28124.0,577.0,"Acute myeloid leukemia, minimal differentiation",,77.0,577.0,1.5797399041752225,1,Blood,0,1,5
+de53c6ef-6901-4916-8898-1a530813873b,TCGA-LAML,Dead,151.0,male,white,77.0,28216.0,151.0,Acute megakaryoblastic leukaemia,,77.3,151.0,0.4134154688569473,1,Blood,0,1,5
+21bd7197-2504-4710-8c13-a9da9f71b0d5,TCGA-LAML,Dead,122.0,male,white,58.0,21396.0,122.0,Acute myelomonocytic leukemia,,58.6,122.0,0.33401779603011633,1,Blood,0,1,5
+fc4ae4f8-f66b-4137-9821-e579b339cbf6,TCGA-LAML,Alive,,male,white,55.0,20393.0,2284.0,Acute myelomonocytic leukemia,,55.8,2284.0,6.253251197809719,0,Blood,0,1,5
+e78ff499-037b-450a-ac04-6fb3a9e124a4,TCGA-LAML,Dead,945.0,male,white,46.0,16892.0,945.0,Acute myeloid leukemia without maturation,,46.2,945.0,2.5872689938398357,1,Blood,0,1,5
+478f29b1-6604-4e75-a492-47c384799f44,TCGA-LAML,Dead,1431.0,male,white,68.0,25171.0,1431.0,Acute myeloid leukemia with maturation,,68.9,1431.0,3.917864476386037,1,Blood,0,1,5
+d1848a5f-053a-4db4-ab4e-c5eb311bc3a0,TCGA-LAML,Alive,,female,white,48.0,17866.0,882.0,Acute myelomonocytic leukemia,,48.9,882.0,2.414784394250513,0,Blood,0,0,5
+dc7c0a9b-ef72-4188-a711-69dbf70c744c,TCGA-LAML,Dead,1642.0,male,white,56.0,20485.0,1642.0,Acute myeloid leukemia without maturation,,56.1,1642.0,4.4955509924709105,1,Blood,0,1,5
+35ac682e-230a-4d90-9d95-c86216782b63,TCGA-LAML,Dead,30.0,male,white,45.0,16437.0,30.0,Acute monocytic leukemia,,45.0,30.0,0.08213552361396304,1,Blood,0,1,5
+712dbdd5-c4e2-4b3c-9976-8f50234441b1,TCGA-LAML,Dead,31.0,male,white,81.0,29769.0,31.0,Acute myeloid leukemia with maturation,,81.5,31.0,0.08487337440109514,1,Blood,0,1,5
+92c7e4d6-eb53-46c5-9721-5edccd60bcc9,TCGA-LAML,Alive,,male,white,25.0,9251.0,1249.0,Acute myeloid leukemia with maturation,,25.3,1249.0,3.4195756331279945,0,Blood,0,1,5
+a7a567fa-847e-49c6-b404-f2257e00b00d,TCGA-LAML,Dead,822.0,male,white,49.0,17988.0,822.0,Acute myelomonocytic leukemia,,49.2,822.0,2.2505133470225873,1,Blood,0,1,5
+336a3daa-0d18-4b1d-a091-b96f864d022a,TCGA-LAML,Dead,517.0,male,white,65.0,23833.0,517.0,"Acute myeloid leukemia, minimal differentiation",,65.3,517.0,1.4154688569472964,1,Blood,0,1,5
+ebf4703c-7517-492f-8ea3-134e798ac820,TCGA-LAML,Dead,580.0,male,white,67.0,24714.0,580.0,Acute myelomonocytic leukemia,,67.7,580.0,1.5879534565366187,1,Blood,0,1,5
+8ff807a6-b63f-4a71-9ff3-b47ac91a0114,TCGA-LAML,Dead,214.0,female,white,21.0,7882.0,214.0,Acute monocytic leukemia,,21.6,214.0,0.5859000684462696,1,Blood,0,0,5
+a05e93e6-ad8b-4893-b27d-c9cd329ad564,TCGA-LAML,Dead,0.0,female,white,61.0,22522.0,0.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,61.7,0.0,0.0,1,Blood,0,0,5
+c1f908ce-f6d5-4557-a4bf-956b71b8bf61,TCGA-LAML,Dead,183.0,male,white,61.0,22523.0,183.0,Acute monocytic leukemia,,61.7,183.0,0.5010266940451745,1,Blood,0,1,5
+4cf1e489-dd24-4227-b306-4bc5266a224c,TCGA-LAML,Dead,215.0,female,white,36.0,13149.0,215.0,Acute myeloid leukemia without maturation,,36.0,215.0,0.5886379192334018,1,Blood,0,0,5
+c0c52e79-813b-45a9-8021-343aaa6663f6,TCGA-LAML,Dead,915.0,male,white,53.0,19570.0,915.0,Acute myeloid leukemia without maturation,,53.6,915.0,2.5051334702258727,1,Blood,0,1,5
+9f0a0548-e8b4-4c44-94e7-9d5e793e5601,TCGA-LAML,Dead,275.0,female,white,64.0,23404.0,275.0,Acute myelomonocytic leukemia,,64.1,275.0,0.7529089664613279,1,Blood,0,0,5
+02634746-93b2-4cc4-9912-4a6d0bcd2e15,TCGA-LAML,Dead,1402.0,female,white,57.0,20910.0,1402.0,Acute myelomonocytic leukemia,,57.2,1402.0,3.838466803559206,1,Blood,0,0,5
+e591adad-8331-4198-94c4-d03ea01f70c5,TCGA-LAML,Dead,792.0,female,white,39.0,14427.0,792.0,"Acute myeloid leukemia, minimal differentiation",,39.5,792.0,2.1683778234086244,1,Blood,0,0,5
+697668df-f834-4a06-8f5a-de999b06a254,TCGA-LAML,Dead,577.0,female,white,75.0,27547.0,577.0,Acute myeloid leukemia with maturation,,75.4,577.0,1.5797399041752225,1,Blood,0,0,5
+eb14339d-fefa-46c3-99a6-55268384361a,TCGA-LAML,Alive,,male,white,63.0,23164.0,1551.0,Acute myeloid leukemia with maturation,,63.4,1551.0,4.246406570841889,0,Blood,0,1,5
+e54de1c4-6cdc-4106-ab5d-1d7c745e690f,TCGA-LAML,Dead,245.0,male,white,33.0,12266.0,245.0,Acute myelomonocytic leukemia,,33.6,245.0,0.6707734428473648,1,Blood,0,1,5
+e843a0ea-45a5-4c11-92a1-08ff12eb4531,TCGA-LAML,Dead,,male,white,69.0,25264.0,,"Acute myeloid leukemia, minimal differentiation",,69.2,,,1,Blood,0,1,5
+bb8cff3b-c3e6-4fc9-b9dd-9d04d76458c6,TCGA-LAML,Dead,306.0,male,white,54.0,19905.0,306.0,"Acute myeloid leukemia, M6 type",,54.5,306.0,0.837782340862423,1,Blood,0,1,5
+7994d0a6-cef5-4391-a121-5a0853a34fa7,TCGA-LAML,Dead,242.0,female,white,66.0,24319.0,242.0,Acute monocytic leukemia,,66.6,242.0,0.6625598904859685,1,Blood,0,0,5
+8dc1781e-1794-4f33-84aa-fea032f92bae,TCGA-LAML,Dead,273.0,male,black or african american,50.0,18386.0,273.0,"Acute myeloid leukemia, M6 type",,50.3,273.0,0.7474332648870636,1,Blood,0,1,3
+69da7e4d-57d3-40d6-92af-3cd1aaf9e0ec,TCGA-LAML,Dead,31.0,male,white,78.0,28581.0,31.0,Acute myelomonocytic leukemia,,78.3,31.0,0.08487337440109514,1,Blood,0,1,5
+b22398fb-1374-41d8-8029-8b7d56466a59,TCGA-LAML,Dead,31.0,male,white,78.0,28551.0,31.0,Acute myelomonocytic leukemia,,78.2,31.0,0.08487337440109514,1,Blood,0,1,5
+669abe06-4971-4b44-96ab-3bdf48788054,TCGA-LAML,Dead,150.0,male,white,63.0,23317.0,150.0,Acute myelomonocytic leukemia,,63.8,150.0,0.4106776180698152,1,Blood,0,1,5
+15b2be7d-bd75-4236-b896-2ef25edd14b8,TCGA-LAML,Dead,973.0,male,white,65.0,24017.0,973.0,"Acute myeloid leukemia, minimal differentiation",,65.8,973.0,2.6639288158795345,1,Blood,0,1,5
+a086aba1-0df5-497b-85e7-bc84aac1acec,TCGA-LAML,Dead,0.0,male,white,76.0,27971.0,0.0,"Acute myeloid leukemia, minimal differentiation",,76.6,0.0,0.0,1,Blood,0,1,5
+cd2b601d-e05d-4c12-8468-f67e11051b5e,TCGA-LAML,Dead,427.0,female,white,60.0,22035.0,427.0,Acute megakaryoblastic leukaemia,,60.3,427.0,1.1690622861054072,1,Blood,0,0,5
+c147d12e-5e96-484e-bbe7-dc2f11f889bf,TCGA-LAML,Dead,184.0,female,white,75.0,27667.0,184.0,Acute monocytic leukemia,,75.7,184.0,0.5037645448323066,1,Blood,0,0,5
+86850627-ca22-48ef-9b05-8e00e75d10ca,TCGA-LAML,Dead,366.0,female,white,51.0,18809.0,366.0,Acute myelomonocytic leukemia,,51.5,366.0,1.002053388090349,1,Blood,0,0,5
+7b4ce492-ff40-4bf1-b3e8-75ff83e8746d,TCGA-LAML,Dead,62.0,female,white,64.0,23679.0,62.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,64.8,62.0,0.1697467488021903,1,Blood,0,0,5
+e49a1768-bf1e-49c0-bca3-4e076928281c,TCGA-LAML,Alive,,male,white,45.0,16528.0,2100.0,Acute monocytic leukemia,,45.3,2100.0,5.749486652977413,0,Blood,0,1,5
+196d4b0c-a4ec-4915-b706-ada86ab483ae,TCGA-LAML,Dead,274.0,male,white,63.0,23345.0,274.0,Acute myelomonocytic leukemia,,63.9,274.0,0.7501711156741958,1,Blood,0,1,5
+f3a80377-1d76-4754-8018-45cf49937cb8,TCGA-LAML,Dead,90.0,female,white,88.0,32326.0,90.0,Acute myeloid leukemia without maturation,,88.5,90.0,0.2464065708418891,1,Blood,0,0,5
+9dbd2ef7-77da-42ef-90d2-8d30b4330f94,TCGA-LAML,Dead,184.0,male,black or african american,70.0,25627.0,184.0,Acute myeloid leukemia without maturation,,70.2,184.0,0.5037645448323066,1,Blood,0,1,3
+ef009667-aaaf-4138-a170-e446012e0930,TCGA-LAML,Dead,215.0,male,white,77.0,28275.0,215.0,"Acute myeloid leukemia, M6 type",,77.4,215.0,0.5886379192334018,1,Blood,0,1,5
+58b78fa2-7bf7-4735-bcbc-0eef3e5e3d70,TCGA-LAML,Dead,518.0,male,white,35.0,12904.0,518.0,Acute myelomonocytic leukemia,,35.3,518.0,1.4182067077344285,1,Blood,0,1,5
+66392380-a9fe-45b7-9191-60993f3f77f4,TCGA-LAML,Alive,,female,white,31.0,11446.0,1581.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,31.3,1581.0,4.328542094455853,0,Blood,0,0,5
+b93cb62a-a7dc-406d-8482-6b51a92ea3c3,TCGA-LAML,Dead,365.0,male,white,50.0,18385.0,365.0,Acute myelomonocytic leukemia,,50.3,365.0,0.999315537303217,1,Blood,0,1,5
+b147ea90-5643-4680-ac90-d6e8f7166792,TCGA-LAML,Dead,304.0,male,black or african american,40.0,14671.0,304.0,Acute myeloid leukemia with maturation,,40.2,304.0,0.8323066392881588,1,Blood,0,1,3
+5b5d770e-db72-4ee8-a89a-db80fb31d3cd,TCGA-LAML,Alive,,male,white,59.0,21581.0,577.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,59.1,577.0,1.5797399041752225,0,Blood,0,1,5
+81769d23-74f4-4ca1-8fcf-3e03aa1bf3c9,TCGA-LAML,Alive,,female,white,22.0,8280.0,792.0,Acute myeloid leukemia with maturation,,22.7,792.0,2.1683778234086244,0,Blood,0,0,5
+a85837e6-f98d-4a80-b7c1-49b0a6313dd7,TCGA-LAML,Alive,,female,white,69.0,25326.0,393.0,Acute myeloid leukemia without maturation,,69.3,393.0,1.0759753593429158,0,Blood,0,0,5
+c9b92f8f-4599-47d1-9d12-31e42166a091,TCGA-LAML,Dead,577.0,male,not reported,23.0,8676.0,577.0,Acute myelomonocytic leukemia,,23.8,577.0,1.5797399041752225,1,Blood,0,1,4
+be6dd0e8-9966-4961-987d-4d64d15ff9ca,TCGA-LAML,Alive,,female,white,35.0,13027.0,487.0,Acute monocytic leukemia,,35.7,487.0,1.3333333333333333,0,Blood,0,0,5
+cf2e5c6a-a7d8-428f-800a-fb94dcfc5fe4,TCGA-LAML,Dead,,female,white,47.0,17198.0,,Acute myeloid leukemia without maturation,,47.1,,,1,Blood,0,0,5
+c9943335-86a8-4286-891c-c2331d75dc0d,TCGA-LAML,Dead,485.0,male,white,61.0,22464.0,485.0,Acute myeloid leukemia without maturation,,61.5,485.0,1.3278576317590691,1,Blood,0,1,5
+53fad992-1808-47bf-a59a-307c7e5fbed8,TCGA-LAML,Dead,365.0,male,white,67.0,24503.0,365.0,Acute myeloid leukemia with maturation,,67.1,365.0,0.999315537303217,1,Blood,0,1,5
+f58f22e9-76b0-441f-951f-6bc795f2b7bc,TCGA-LAML,Dead,153.0,male,white,67.0,24684.0,153.0,Acute myeloid leukemia without maturation,,67.6,153.0,0.4188911704312115,1,Blood,0,1,5
+9aedadd8-98e2-4cff-b1a3-64506bf1d95c,TCGA-LAML,Dead,181.0,female,white,68.0,25143.0,181.0,Acute myeloid leukemia without maturation,,68.8,181.0,0.49555099247091033,1,Blood,0,0,5
+008ddf20-f7fb-4673-b2ed-b5d5212fbf09,TCGA-LAML,Alive,,male,black or african american,27.0,10046.0,59.0,Acute myeloid leukemia with maturation,,27.5,59.0,0.16153319644079397,0,Blood,0,1,3
+b55cf9ae-9e1a-4301-8f09-9acb7951ecd6,TCGA-LAML,Dead,0.0,female,white,76.0,27971.0,0.0,Acute myeloid leukemia without maturation,,76.6,0.0,0.0,1,Blood,0,0,5
+b5cbd66f-948d-45a3-af3b-f17e2b35d85e,TCGA-LAML,Dead,304.0,female,white,37.0,13728.0,304.0,Acute myeloid leukemia with maturation,,37.6,304.0,0.8323066392881588,1,Blood,0,0,5
+02e4f2da-9977-4251-81da-9e9f3a2310de,TCGA-LAML,Dead,0.0,male,white,64.0,23741.0,0.0,Acute myelomonocytic leukemia,,65.0,0.0,0.0,1,Blood,0,1,5
+e5a70f71-1dd4-49e5-9113-1404fa9fc791,TCGA-LAML,Alive,,female,black or african american,33.0,12266.0,1430.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,33.6,1430.0,3.915126625598905,0,Blood,0,0,3
+68449d03-6f2e-4b17-a2bf-c0494df32303,TCGA-LAML,Dead,0.0,male,white,76.0,27940.0,0.0,Acute monocytic leukemia,,76.5,0.0,0.0,1,Blood,0,1,5
+a436f4d7-018e-44e3-a615-9c33fcc1167d,TCGA-LAML,Dead,30.0,female,white,82.0,30134.0,30.0,Acute myeloid leukemia with maturation,,82.5,30.0,0.08213552361396304,1,Blood,0,0,5
+4b8ff65f-b563-4519-b984-c7cf26b3ad73,TCGA-LAML,Dead,30.0,female,white,67.0,24717.0,30.0,Acute myeloid leukemia without maturation,,67.7,30.0,0.08213552361396304,1,Blood,0,0,5
+882ecf72-433b-46fa-9bc4-628c2d943cd1,TCGA-LAML,Alive,,male,white,50.0,18506.0,699.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,50.7,699.0,1.9137577002053388,0,Blood,0,1,5
+ff7839bb-176e-4483-ac6e-7fae9f6e2e54,TCGA-LAML,Dead,92.0,female,white,67.0,24715.0,92.0,Acute monocytic leukemia,,67.7,92.0,0.2518822724161533,1,Blood,0,0,5
+a42bc793-f21d-45d1-9ab3-bfa9de25612e,TCGA-LAML,Alive,,female,white,54.0,19724.0,61.0,Acute myeloid leukemia without maturation,,54.0,61.0,0.16700889801505817,0,Blood,0,0,5
+810d293b-7dfc-4e91-ab29-042457632399,TCGA-LAML,Alive,,male,white,38.0,14123.0,1157.0,Acute myeloid leukemia without maturation,,38.7,1157.0,3.167693360711841,0,Blood,0,1,5
+12677872-92fb-44ff-93b9-25a93fc3b188,TCGA-LAML,Dead,273.0,male,white,33.0,12237.0,273.0,Acute myeloid leukemia with maturation,,33.5,273.0,0.7474332648870636,1,Blood,0,1,5
+c5f2311c-020a-47cd-a065-7fbc34488405,TCGA-LAML,Dead,212.0,female,white,31.0,11384.0,212.0,Acute monocytic leukemia,,31.2,212.0,0.5804243668720055,1,Blood,0,0,5
+d442e36b-6d15-4fc3-9641-5feac119db94,TCGA-LAML,Dead,153.0,male,white,76.0,27787.0,153.0,Acute myeloid leukemia without maturation,,76.1,153.0,0.4188911704312115,1,Blood,0,1,5
+404dafe8-369c-4659-a088-c85dccb7ad3b,TCGA-LAML,Dead,0.0,male,white,73.0,26998.0,0.0,"Acute myeloid leukemia, NOS",,73.9,0.0,0.0,1,Blood,0,1,5
+082ca353-a5ae-421f-ae58-098257a1425f,TCGA-LAML,Dead,335.0,male,white,45.0,16589.0,335.0,"Acute myeloid leukemia, minimal differentiation",,45.4,335.0,0.917180013689254,1,Blood,0,1,5
+46692ac0-8993-4cd3-9590-32ec9dd2c802,TCGA-LAML,Alive,,male,white,55.0,20150.0,304.0,Acute myelomonocytic leukemia,,55.2,304.0,0.8323066392881588,0,Blood,0,1,5
+9c022254-f9f7-4c61-be48-48c60a92448e,TCGA-LAML,Alive,,male,white,58.0,21214.0,1035.0,Acute myelomonocytic leukemia,,58.1,1035.0,2.833675564681725,0,Blood,0,1,5
+81dabf1f-e666-48c6-a912-2ea5bfecf585,TCGA-LAML,Dead,28.0,male,white,74.0,27243.0,28.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,74.6,28.0,0.07665982203969883,1,Blood,0,1,5
+96607b17-2894-4153-adde-3d970f47fe50,TCGA-LAML,Alive,,male,white,62.0,22738.0,0.0,Acute monocytic leukemia,,62.3,0.0,0.0,0,Blood,0,1,5
+87b2e470-fff6-4429-b77b-0552a1856337,TCGA-LAML,Alive,,female,white,68.0,25141.0,245.0,Acute myeloid leukemia without maturation,,68.8,245.0,0.6707734428473648,0,Blood,0,0,5
+74d13c8f-6cd4-44e1-9767-a136fa411448,TCGA-LAML,Dead,761.0,female,white,57.0,21124.0,761.0,Acute myelomonocytic leukemia,,57.8,761.0,2.083504449007529,1,Blood,0,0,5
+8eee4228-4d30-480a-8743-5a3d98eb1741,TCGA-LAML,Dead,184.0,female,white,66.0,24257.0,184.0,Acute myeloid leukemia with maturation,,66.4,184.0,0.5037645448323066,1,Blood,0,0,5
+f6810357-a598-4a39-8cbd-067795b8d860,TCGA-LAML,Alive,,female,white,41.0,15128.0,1216.0,"Acute myeloid leukemia, minimal differentiation",,41.4,1216.0,3.3292265571526354,0,Blood,0,0,5
+5d10ca47-abc6-4953-9620-1c63542354bf,TCGA-LAML,Alive,,male,white,74.0,27364.0,1581.0,Acute myeloid leukemia with maturation,,74.9,1581.0,4.328542094455853,0,Blood,0,1,5
+1c9b389c-4740-449c-a10e-a840e8531e7b,TCGA-LAML,Alive,,female,white,57.0,21184.0,1277.0,Acute myeloid leukemia without maturation,,58.0,1277.0,3.4962354551676933,0,Blood,0,0,5
+c21aab2a-36a0-464c-aa7d-d0c6937cab29,TCGA-LAML,Alive,,male,white,39.0,14520.0,2220.0,"Acute myeloid leukemia, minimal differentiation",,39.8,2220.0,6.078028747433265,0,Blood,0,1,5
+cfb6e5b0-34ed-4f8a-9057-c48de5e28645,TCGA-LAML,Dead,0.0,male,white,75.0,27485.0,0.0,Acute myeloid leukemia with maturation,,75.2,0.0,0.0,1,Blood,0,1,5
+c532cfda-a8fa-4a8a-92ba-33ad8b47404d,TCGA-LAML,Dead,489.0,female,white,56.0,20484.0,489.0,Acute myeloid leukemia with maturation,,56.1,489.0,1.3388090349075976,1,Blood,0,0,5
+88765a3f-631d-4e47-a012-e2470633a505,TCGA-LAML,Alive,,male,white,57.0,20879.0,334.0,Acute myelomonocytic leukemia,,57.2,334.0,0.9144421629021219,0,Blood,0,1,5
+83ae044d-2975-478c-902c-776858c2ba3a,TCGA-LAML,Alive,,female,white,34.0,12693.0,306.0,Acute myeloid leukemia with maturation,,34.8,306.0,0.837782340862423,0,Blood,0,0,5
+88718579-8473-48f6-ba0a-17fcfed36e14,TCGA-LAML,Dead,577.0,female,white,54.0,19724.0,577.0,Acute myeloid leukemia without maturation,,54.0,577.0,1.5797399041752225,1,Blood,0,0,5
+ef853801-83be-4011-ba4d-6e2fe7153b05,TCGA-LAML,Dead,303.0,female,asian,62.0,22707.0,303.0,Acute myeloid leukemia with maturation,,62.2,303.0,0.8295687885010267,1,Blood,0,0,2
+0622830d-cf64-4e62-9c7d-9919088d13c4,TCGA-LAML,Dead,0.0,male,white,83.0,30438.0,0.0,"Acute myeloid leukemia, minimal differentiation",,83.3,0.0,0.0,1,Blood,0,1,5
+eefba73e-bf2c-4cac-bd29-8ab3d392aa5b,TCGA-LAML,Alive,,male,white,23.0,8521.0,2861.0,Acute myeloid leukemia with maturation,,23.3,2861.0,7.832991101984942,0,Blood,0,1,5
+95a4f9f6-d6c7-4d9d-ae34-e4a91d8927e9,TCGA-LAML,Dead,,male,white,35.0,12876.0,,Acute myeloid leukemia with maturation,,35.3,,,1,Blood,0,1,5
+995bdb1e-c67e-43eb-9fbd-16eb290926d5,TCGA-LAML,Alive,,female,white,50.0,18413.0,243.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,50.4,243.0,0.6652977412731006,0,Blood,0,0,5
+2ca0c154-c4fb-4b6d-845f-f2a5a4cc2416,TCGA-LAML,Dead,273.0,female,white,81.0,29890.0,273.0,Acute monocytic leukemia,,81.8,273.0,0.7474332648870636,1,Blood,0,0,5
+d1bf3b65-493e-4249-8cb3-7c9f8ce4dc48,TCGA-LAML,Alive,,male,white,51.0,18962.0,457.0,Acute myeloid leukemia without maturation,,51.9,457.0,1.2511978097193703,0,Blood,0,1,5
+457bf6de-ea0e-4588-a06f-055c808de158,TCGA-LAML,Dead,640.0,male,white,59.0,21550.0,640.0,"Acute myeloid leukemia, minimal differentiation",,59.0,640.0,1.7522245037645447,1,Blood,0,1,5
+bc93cff5-a2c9-4fc5-8965-5570574ac1a2,TCGA-LAML,Dead,458.0,male,white,79.0,28975.0,458.0,Acute myelomonocytic leukemia,,79.3,458.0,1.2539356605065024,1,Blood,0,1,5
+1a93dd15-f404-484c-b67c-98169d5522c7,TCGA-LAML,Dead,0.0,female,white,73.0,26968.0,0.0,Acute myeloid leukemia with maturation,,73.8,0.0,0.0,1,Blood,0,0,5
+c7afc0d0-ca32-4be1-9477-ad106290c460,TCGA-LAML,Alive,,male,white,72.0,26512.0,455.0,Acute myeloid leukemia without maturation,,72.6,455.0,1.2457221081451062,0,Blood,0,1,5
+1d9e9adc-734a-47a3-ad00-b3050770ba37,TCGA-LAML,Dead,214.0,male,white,71.0,26176.0,214.0,"Acute myeloid leukemia, minimal differentiation",,71.7,214.0,0.5859000684462696,1,Blood,0,1,5
+93cb13d2-863f-4c0b-956b-055ce612ae78,TCGA-LAML,Dead,456.0,male,white,77.0,28308.0,456.0,Acute myelomonocytic leukemia,,77.5,456.0,1.2484599589322383,1,Blood,0,1,5
+34631deb-9ed3-49fa-afab-baa0570237cd,TCGA-LAML,Dead,243.0,male,white,57.0,20850.0,243.0,Acute monocytic leukemia,,57.1,243.0,0.6652977412731006,1,Blood,0,1,5
+b234d53e-cc20-41c0-9f21-31db53570a37,TCGA-LAML,Dead,609.0,female,white,68.0,24837.0,609.0,Acute myelomonocytic leukemia,,68.0,609.0,1.6673511293634498,1,Blood,0,0,5
+cf30bef9-bdb4-4a5e-963c-eb6a0cc323db,TCGA-LAML,Dead,212.0,male,white,18.0,6636.0,212.0,Acute myeloid leukemia without maturation,,18.2,212.0,0.5804243668720055,1,Blood,0,1,5
+a2aee2ef-c3c6-4832-bc3f-3648575af5c6,TCGA-LAML,Dead,212.0,male,white,45.0,16617.0,212.0,Acute monocytic leukemia,,45.5,212.0,0.5804243668720055,1,Blood,0,1,5
+99703a58-0a57-4889-88d2-13e59f84debe,TCGA-LAML,Dead,243.0,female,white,65.0,23984.0,243.0,Acute myelomonocytic leukemia,,65.7,243.0,0.6652977412731006,1,Blood,0,0,5
+42e2ed30-e08b-4d24-9e83-d1c3ecbd0fb4,TCGA-LAML,Alive,,male,white,61.0,22553.0,1216.0,"Acute myeloid leukemia, minimal differentiation",,61.7,1216.0,3.3292265571526354,0,Blood,0,1,5
+93ff9379-d1a1-412f-a776-c53397ba0dc3,TCGA-LAML,Dead,,male,black or african american,54.0,20057.0,,Acute myeloid leukemia with maturation,,54.9,,,1,Blood,0,1,3
+7cf64c74-47e6-4913-b91b-25198e36b7c8,TCGA-LAML,Dead,243.0,male,white,81.0,29766.0,243.0,Acute myelomonocytic leukemia,,81.5,243.0,0.6652977412731006,1,Blood,0,1,5
+2216fd35-fea8-4d0c-9673-fbe2146fb40c,TCGA-LAML,Alive,,female,white,51.0,18689.0,273.0,Acute monocytic leukemia,,51.2,273.0,0.7474332648870636,0,Blood,0,0,5
+848fbfa9-1ff6-481f-910f-0423d52763da,TCGA-LAML,Dead,181.0,female,white,50.0,18323.0,181.0,Acute monocytic leukemia,,50.2,181.0,0.49555099247091033,1,Blood,0,0,5
+a24d14d9-4f17-4625-93d0-b0624610d83d,TCGA-LAML,Dead,89.0,male,white,51.0,18720.0,89.0,Acute myeloid leukemia without maturation,,51.3,89.0,0.243668720054757,1,Blood,0,1,5
+e3956736-adbc-49a2-a4a8-a6ae93b8faf3,TCGA-LAML,Alive,,male,white,60.0,22067.0,730.0,Acute monocytic leukemia,,60.4,730.0,1.998631074606434,0,Blood,0,1,5
+dd37ccd0-31d9-4605-8b8e-618bedc80c38,TCGA-LAML,Dead,61.0,male,white,66.0,24349.0,61.0,Acute myelomonocytic leukemia,,66.7,61.0,0.16700889801505817,1,Blood,0,1,5
+fff35c80-88cd-4923-80c1-0273ba5bed0f,TCGA-LAML,Alive,,female,white,48.0,17808.0,393.0,Acute myeloid leukemia without maturation,,48.8,393.0,1.0759753593429158,0,Blood,0,0,5
+97007400-de05-402e-8ff7-96893ba02643,TCGA-LAML,Dead,0.0,female,white,66.0,24381.0,0.0,Acute monocytic leukemia,,66.8,0.0,0.0,1,Blood,0,0,5
+380a053f-03e4-4773-9e59-5e0af8edd9a5,TCGA-LAML,Dead,61.0,male,white,75.0,27486.0,61.0,Acute myeloid leukemia without maturation,,75.3,61.0,0.16700889801505817,1,Blood,0,1,5
+3c25d91d-0e1b-46db-a842-06275c5db258,TCGA-LAML,Dead,0.0,male,white,69.0,25234.0,0.0,"Acute myeloid leukemia, minimal differentiation",,69.1,0.0,0.0,1,Blood,0,1,5
+ba9a95cf-44ce-4126-ba21-4970dfa12593,TCGA-LAML,Dead,31.0,female,white,68.0,24837.0,31.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,68.0,31.0,0.08487337440109514,1,Blood,0,0,5
+64f0c38f-7f87-4c4b-9e37-66f32645dde4,TCGA-LAML,Dead,671.0,female,white,76.0,27787.0,671.0,Acute myelomonocytic leukemia,,76.1,671.0,1.83709787816564,1,Blood,0,0,5
+a45a91f6-55a5-4a5e-ba54-0ac0b4e87d8c,TCGA-LAML,Dead,365.0,female,white,73.0,26844.0,365.0,Acute myeloid leukemia with maturation,,73.5,365.0,0.999315537303217,1,Blood,0,0,5
+96b43e99-d81e-44d2-aac5-a6eb92727368,TCGA-LAML,Dead,,female,black or african american,43.0,15890.0,59.0,Acute myeloid leukemia without maturation,,43.5,,,1,Blood,0,0,3
+e562ecf8-f358-4de9-97a4-f7a94e71d4eb,TCGA-LAML,Dead,455.0,male,white,62.0,22980.0,455.0,Acute myelomonocytic leukemia,,62.9,455.0,1.2457221081451062,1,Blood,0,1,5
+ae9bbada-d987-4757-a081-74f005821c09,TCGA-LAML,Alive,,female,not reported,29.0,10807.0,150.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,29.6,150.0,0.4106776180698152,0,Blood,0,0,4
+28bb21f0-2851-4b7e-9f8a-6d0a016318e2,TCGA-LAML,Alive,,female,white,40.0,14885.0,1826.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,40.8,1826.0,4.999315537303217,0,Blood,0,0,5
+638b78d6-4523-4dd3-8d8a-8c46682f3fd1,TCGA-LAML,Dead,,female,white,70.0,25568.0,,Acute myeloid leukemia without maturation,,70.0,,,1,Blood,0,0,5
+e44e2ac3-4a83-40b0-b266-a36626ffd6ae,TCGA-LAML,Alive,,female,black or african american,64.0,23679.0,243.0,Acute myeloid leukemia with maturation,,64.8,243.0,0.6652977412731006,0,Blood,0,0,3
+bec60bdd-34e7-467c-8662-f3a1bb1a4361,TCGA-LAML,Dead,1706.0,female,white,32.0,11839.0,1706.0,Acute myeloid leukemia without maturation,,32.4,1706.0,4.670773442847365,1,Blood,0,0,5
+3e698caf-4d86-43f5-b657-5f4cef64fc5f,TCGA-LAML,Dead,122.0,male,white,63.0,23254.0,122.0,Acute myeloid leukemia with maturation,,63.7,122.0,0.33401779603011633,1,Blood,0,1,5
+ffc73551-55e9-4bbb-bd15-76088551964b,TCGA-LAML,Dead,731.0,female,white,44.0,16285.0,731.0,Acute myeloid leukemia without maturation,,44.6,731.0,2.001368925393566,1,Blood,0,0,5
+31ac4afd-8195-479a-97da-92edaa89a85e,TCGA-LAML,Dead,489.0,male,white,71.0,26114.0,489.0,"Acute myeloid leukemia, minimal differentiation",,71.5,489.0,1.3388090349075976,1,Blood,0,1,5
+8e57db50-eb17-4d95-8806-081290ea3cfc,TCGA-LAML,Alive,,male,white,26.0,9497.0,181.0,Acute myeloid leukemia with maturation,,26.0,181.0,0.49555099247091033,0,Blood,0,1,5
+ece0c0d5-c1aa-44eb-9fe3-9c3ae50cfaa6,TCGA-LAML,Dead,61.0,female,black or african american,72.0,26298.0,61.0,Acute myeloid leukemia with maturation,,72.0,61.0,0.16700889801505817,1,Blood,0,0,3
+79378590-e28e-403b-bbde-c76c0195a980,TCGA-LAML,Dead,,male,black or african american,42.0,15400.0,,Acute myeloid leukemia without maturation,,42.2,,,1,Blood,0,1,3
+d6ef326a-e3c6-42ad-84b9-3f7f07313101,TCGA-LAML,Alive,,male,white,48.0,17624.0,1673.0,Acute monocytic leukemia,,48.3,1673.0,4.5804243668720055,0,Blood,0,1,5
+e2e610ce-31c3-4fc0-917d-92d48feb600a,TCGA-LAML,Dead,365.0,male,white,29.0,10774.0,365.0,Acute myeloid leukemia with maturation,,29.5,365.0,0.999315537303217,1,Blood,0,1,5
+ae2392a3-b8c2-4ddb-8cec-a28cb3fcd80b,TCGA-LAML,Alive,,male,white,48.0,17869.0,1611.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,48.9,1611.0,4.4106776180698155,0,Blood,0,1,5
+646631ce-7a1f-4274-abb7-780b939e182f,TCGA-LAML,Alive,,male,white,62.0,22980.0,1735.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,62.9,1735.0,4.7501711156741955,0,Blood,0,1,5
+75343469-9740-4b3f-83f9-82507f697fd9,TCGA-LAML,Dead,,female,white,63.0,23011.0,,Acute myeloid leukemia with maturation,,63.0,,,1,Blood,0,0,5
+558a239b-fe8b-4b56-9137-4cacf8324995,TCGA-LAML,Alive,,male,black or african american,42.0,15461.0,638.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,42.3,638.0,1.7467488021902806,0,Blood,0,1,3
+0957ffd1-d7d2-465d-8ba1-37ae0ce15734,TCGA-LAML,Alive,,female,white,55.0,20211.0,1492.0,Acute myelomonocytic leukemia,,55.3,1492.0,4.084873374401095,0,Blood,0,0,5
+3997c824-8b85-4e1d-b4b1-d32c26155296,TCGA-LAML,Alive,,male,white,53.0,19543.0,1887.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,53.5,1887.0,5.166324435318275,0,Blood,0,1,5
+5e491ce4-d8da-495b-a3aa-177e06cd69d0,TCGA-LAML,Dead,,female,white,25.0,9162.0,,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,25.1,,,1,Blood,0,0,5
+2fcda6a9-813b-41b2-aae4-ca42c9986287,TCGA-LAML,Alive,,male,white,30.0,11203.0,2557.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,30.7,2557.0,7.000684462696783,0,Blood,0,1,5
+0fc33d1f-3cee-4481-b7a2-15b53ff85083,TCGA-LAML,Dead,,male,white,48.0,17622.0,,"Acute myeloid leukemia, minimal differentiation",,48.2,,,1,Blood,0,1,5
+9072cf34-8632-4b57-acc8-58e8fe21c136,TCGA-LAML,Dead,1401.0,female,white,51.0,18809.0,1401.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,51.5,1401.0,3.8357289527720737,1,Blood,0,0,5
+e08f84fe-0013-4734-9966-cd734e6fedc5,TCGA-LAML,Alive,,female,white,21.0,7916.0,1885.0,Acute myeloid leukemia without maturation,,21.7,1885.0,5.160848733744011,0,Blood,0,0,5
+67cf58e9-203e-455a-a25d-5e38d08028bc,TCGA-LAML,Alive,,male,white,59.0,21764.0,396.0,Acute myeloid leukemia with maturation,,59.6,396.0,1.0841889117043122,0,Blood,0,1,5
+6cf73307-dcf9-43fb-8848-618ae5c1723b,TCGA-LAML,Dead,365.0,female,white,47.0,17501.0,365.0,Acute myeloid leukemia with maturation,,47.9,365.0,0.999315537303217,1,Blood,0,0,5
+c00bdbdc-a65d-494d-a9d7-4309c28277ca,TCGA-LAML,Alive,,male,white,65.0,23956.0,28.0,Acute myeloid leukemia without maturation,,65.6,28.0,0.07665982203969883,0,Blood,0,1,5
+088c2e4e-fc4e-4252-84ed-e3ca2c401958,TCGA-LAML,Dead,305.0,female,white,34.0,12569.0,305.0,Acute myelomonocytic leukemia,,34.4,305.0,0.8350444900752909,1,Blood,0,0,5
+6d271451-affa-4c76-bce5-6bf8622d83a9,TCGA-LAML,Alive,,female,white,67.0,24776.0,641.0,Acute myelomonocytic leukemia,,67.8,641.0,1.754962354551677,0,Blood,0,0,5
+137dfe0a-2a2b-423c-9a8a-78233b6ead74,TCGA-LAML,Dead,153.0,female,white,41.0,15310.0,153.0,Acute myeloid leukemia without maturation,,41.9,153.0,0.4188911704312115,1,Blood,0,0,5
+153bc9ff-39c9-4890-a085-a46c530a7e97,TCGA-LAML,Dead,366.0,male,white,44.0,16071.0,366.0,Acute myeloid leukemia with maturation,,44.0,366.0,1.002053388090349,1,Blood,0,1,5
+f81ce06d-8ace-4f19-aaf8-75a4219a5a60,TCGA-LAML,Dead,123.0,female,white,71.0,26054.0,123.0,"Acute myeloid leukemia, minimal differentiation",,71.3,123.0,0.33675564681724846,1,Blood,0,0,5
+300fa3a7-3c42-4edc-8992-400188e762b4,TCGA-LAML,Dead,31.0,female,white,60.0,22188.0,31.0,Acute myeloid leukemia without maturation,,60.7,31.0,0.08487337440109514,1,Blood,0,0,5
+f6f9ed0d-2b3c-45b7-b214-853b5a207bac,TCGA-LAML,Dead,822.0,male,white,64.0,23527.0,822.0,Acute myeloid leukemia without maturation,,64.4,822.0,2.2505133470225873,1,Blood,0,1,5
+2df3d38b-5393-41e1-bd15-8dd372c111c0,TCGA-LAML,Dead,457.0,female,white,57.0,20820.0,457.0,Acute myeloid leukemia without maturation,,57.0,457.0,1.2511978097193703,1,Blood,0,0,5
+3f67b6bc-8886-459a-be73-d702f977a8ba,TCGA-LAML,Dead,31.0,male,white,63.0,23132.0,31.0,Acute myeloid leukemia without maturation,,63.3,31.0,0.08487337440109514,1,Blood,0,1,5
+d5fe3b27-c6a6-4a35-a173-3f7b73c2ed14,TCGA-LAML,Dead,273.0,male,white,64.0,23376.0,273.0,Acute myeloid leukemia with maturation,,64.0,273.0,0.7474332648870636,1,Blood,0,1,5
+929de9a5-3224-4851-8ff0-8a92354c1f16,TCGA-LAML,Alive,,male,white,55.0,20331.0,1127.0,Acute monocytic leukemia,,55.7,1127.0,3.0855578370978782,0,Blood,0,1,5
+d3988699-70d6-43e1-b84b-9e38b4d2d2b1,TCGA-LAML,Alive,,male,white,35.0,13029.0,1581.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,35.7,1581.0,4.328542094455853,0,Blood,0,1,5
+e4ad3f09-7e23-4a84-b8f3-3faf2db890f4,TCGA-LAML,Dead,,male,white,24.0,8827.0,424.0,Acute myeloid leukemia without maturation,,24.2,,,1,Blood,0,1,5
+b4bc4666-13ba-4864-be9b-89ff8a0a1bd8,TCGA-LAML,Alive,,male,black or african american,51.0,18689.0,153.0,Acute myeloid leukemia without maturation,,51.2,153.0,0.4188911704312115,0,Blood,0,1,3
+48f730a5-26c3-4716-964e-36fa9af26966,TCGA-LAML,Dead,0.0,female,white,61.0,22311.0,0.0,Acute monocytic leukemia,,61.1,0.0,0.0,1,Blood,0,0,5
+b351345a-18c2-42ed-8911-c37267c9cb58,TCGA-LAML,Alive,,male,white,58.0,21336.0,699.0,"Acute myeloid leukemia, minimal differentiation",,58.4,699.0,1.9137577002053388,0,Blood,0,1,5
+90fc467c-2b0d-461d-a1b8-c2a519354367,TCGA-LAML,Alive,,female,white,61.0,22402.0,699.0,Acute myeloid leukemia with maturation,,61.3,699.0,1.9137577002053388,0,Blood,0,0,5
+b8492e1a-aa02-4585-a5be-75f9833c8c3f,TCGA-LAML,Alive,,female,white,60.0,22280.0,59.0,"Acute myeloid leukemia, minimal differentiation",,61.0,59.0,0.16153319644079397,0,Blood,0,0,5
+06d713a5-61fe-450b-bb81-721ab8aa0013,TCGA-LAML,Alive,,male,white,41.0,15156.0,,Acute myeloid leukemia with maturation,,41.5,,,0,Blood,0,1,5
+cb97312b-0bd2-4fbd-b3a6-05c5a17a0a34,TCGA-LAML,Dead,,female,white,56.0,20454.0,,Acute myelomonocytic leukemia,,56.0,,,1,Blood,0,0,5
+9a18743d-f16b-4320-952f-af15725c17ca,TCGA-LAML,Dead,365.0,female,white,60.0,21915.0,365.0,Acute monocytic leukemia,,60.0,365.0,0.999315537303217,1,Blood,0,0,5
+05924106-07f6-44ca-ba15-7452b8a657e4,TCGA-LAML,Dead,335.0,male,white,60.0,22006.0,335.0,Acute myelomonocytic leukemia,,60.2,335.0,0.917180013689254,1,Blood,0,1,5
+fef46ade-e2a8-430e-9e6b-65da64baf266,TCGA-LAML,Alive,,male,white,52.0,19146.0,31.0,Acute myelomonocytic leukemia,,52.4,31.0,0.08487337440109514,0,Blood,0,1,5
+80017c88-e07f-4bf6-ad00-87f3e5473d6d,TCGA-LAML,Alive,,female,white,45.0,16648.0,1219.0,Acute myeloid leukemia with maturation,,45.6,1219.0,3.3374401095140316,0,Blood,0,0,5
+27bb612c-a74a-4088-b0ea-1dbe28e7a725,TCGA-LAML,Alive,,male,white,59.0,21825.0,90.0,Acute myelomonocytic leukemia,,59.8,90.0,0.2464065708418891,0,Blood,0,1,5
+ffc915b8-cacd-4974-a040-ee496f0efc0e,TCGA-LAML,Alive,,male,white,43.0,16010.0,212.0,Acute myeloid leukemia with maturation,,43.8,212.0,0.5804243668720055,0,Blood,0,1,5
+b3503688-662e-43cf-be58-72edb097db8a,TCGA-LAML,Dead,,female,white,60.0,21946.0,,Acute myeloid leukemia without maturation,,60.1,,,1,Blood,0,0,5
+96686a1a-16d0-4cdc-b1f7-5dbbf4cf1c9f,TCGA-LAML,Alive,,female,white,52.0,19054.0,2496.0,Acute myeloid leukemia with maturation,,52.2,2496.0,6.833675564681725,0,Blood,0,0,5
+f95063bc-a640-4980-99a7-84645902daf4,TCGA-LAML,Dead,31.0,female,white,71.0,26053.0,31.0,Acute myeloid leukemia with maturation,,71.3,31.0,0.08487337440109514,1,Blood,0,0,5
+b5f20ec2-ff5d-4aac-8db6-49887506f0b3,TCGA-LAML,Alive,,male,white,25.0,9436.0,1798.0,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)",,25.8,1798.0,4.922655715263518,0,Blood,0,1,5
+c887d68c-da8e-4f15-a524-3b6674b145ed,TCGA-LAML,Alive,,male,white,31.0,11626.0,609.0,Acute myelomonocytic leukemia,,31.8,609.0,1.6673511293634498,0,Blood,0,1,5
+ab60901b-d2ad-401a-9742-52df35ce1de0,TCGA-LAML,Alive,,male,asian,22.0,8220.0,30.0,"Acute myeloid leukemia, NOS",,22.5,30.0,0.08213552361396304,0,Blood,0,1,2
+b1c32911-5ca8-4b77-8063-a97c30a3a348,TCGA-LAML,Dead,854.0,female,white,57.0,20880.0,854.0,Acute myeloid leukemia with maturation,,57.2,854.0,2.3381245722108144,1,Blood,0,0,5
+f3c7fc84-3df8-4ff7-a378-26ec5d9e08a5,TCGA-LAML,Alive,,female,white,42.0,15614.0,943.0,Acute myelomonocytic leukemia,,42.7,943.0,2.5817932922655715,0,Blood,0,0,5
+898a092e-89fe-4010-afea-14c605f99481,TCGA-LAML,Dead,822.0,male,white,22.0,8159.0,822.0,Acute myeloid leukemia without maturation,,22.3,822.0,2.2505133470225873,1,Blood,0,1,5
+5ece14fd-3d7f-4ecb-96aa-2c44d8f15ca4,TCGA-LAML,Dead,792.0,female,white,76.0,27790.0,792.0,Acute myelomonocytic leukemia,,76.1,792.0,2.1683778234086244,1,Blood,0,0,5
+ce7e25dc-5df9-48c5-8f9f-756f6cf765eb,TCGA-LAML,Alive,,female,white,30.0,11262.0,671.0,Acute myeloid leukemia without maturation,,30.8,671.0,1.83709787816564,0,Blood,0,0,5
